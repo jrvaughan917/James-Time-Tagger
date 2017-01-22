@@ -1,0 +1,12 @@
+﻿  James' TimeTagger.cpp
+  JTT_CharQueue.cpp
+  JTT_IntQueue.cpp
+  JTT_StringQueue.cpp
+  JTT_TimeTag.cpp
+  JTT_Utility.cpp
+  AssemblyInfo.cpp
+AssemblyInfo.cpp(40): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
+  AssemblyInfo.cpp(40): note: Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  Generating Code...
+  James' TimeTagger.vcxproj -> E:\CS Study\James' TimeTagger\James' TimeTagger\Debug\James' TimeTagger.exe
+  James' TimeTagger.vcxproj -> E:\CS Study\James' TimeTagger\James' TimeTagger\Debug\James' TimeTagger.pdb (Full PDB)

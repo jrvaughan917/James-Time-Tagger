@@ -1,0 +1,1561 @@
+Original file: C:\Users\James\Desktop\JTT_Sample_Input.txt
+This file was annotated by James' TimeTagger.
+
+The Royal Australian Air Force (RAAF) has operated a total of <<<forty-eight>>> Lockheed C-<<<130>>> Hercules transport aircraft. The type entered Australian service in <<<December 1958>>>, when No. <<<36>>> Squadron accepted the <<<first of twelve C-130As>>>, replacing its venerable Douglas C-<<<47>>> Dakotas. The acquisition made Australia the <<<first>>> operator of the Hercules <<<after the>>> United States. In <<<1966 the C-130As>>> were joined by <<<twelve C-130Es>>>, which equipped No. <<<37>>> Squadron. The C-<<<130As>>> were replaced by <<<twelve C-130Hs in 1978, and the C-130Es by twelve C-130J>>> Super Hercules in <<<1999>>>. No. <<<37>>> Squadron became the RAAF's sole 
+
+</Time:Number,:"forty eight">
+</Time:Numeral,:"130">
+</Time:Numeral,Month,:"december 1958">
+</Time:Numeral,:"36">
+</Time:Numeral,Number,NonDateJoiner,:"first of twelve c 130as">
+</Time:Numeral,:"47">
+</Time:Number,:"first">
+</Time:DateJoiner,NonDateJoiner,:"after the">
+</Time:Numeral,NonDateJoiner,:"1966 the c 130as">
+</Time:Numeral,Number,NonDateJoiner,:"twelve c 130es">
+</Time:Numeral,:"37">
+</Time:Numeral,:"130as">
+</Time:Numeral,Number,NonDateJoiner,:"twelve c 130hs in 1978 and the c 130es by twelve c 130j">
+</Time:Numeral,:"1999">
+</Time:Numeral,:"37">
+
+
+Hercules operator in <<<2006>>>, when No. <<<36>>> Squadron transferred its C-<<<130Hs>>> prior to converting to Boeing C-<<<17>>> Globemaster III heavy transports. The C-<<<130Hs>>> were retired in <<<November 2012>>>, leaving the C-<<<130J as the>>> only model in Australian service.
+
+The RAAF's <<<first>>> strategic airlifter, the Hercules has frequently <<<been>>> used to deliver disaster relief in Australia and the Pacific region, as well as to support military deployments overseas. The aircraft saw extensive service <<<during the>>> Vietnam War, transporting troops and cargo to Southeast Asia and undertaking aeromedical evacuation. <<<Nineteen of the
+
+</Time:Numeral,:"2006">
+</Time:Numeral,:"36">
+</Time:Numeral,:"130hs">
+</Time:Numeral,:"17">
+</Time:Numeral,:"130hs">
+</Time:Numeral,Month,:"november 2012">
+</Time:Numeral,NonDateJoiner,:"130j as the">
+</Time:Number,:"first">
+</Time:DateJoiner,:"been">
+</Time:Other,NonDateJoiner,:"during the">
+
+
+ RAAF's fleet of <<<twenty-four C-130s>>> took part in relief efforts in <<<1974–75 after>>> Cyclone Tracy struck Darwin. Since then, the Hercules have <<<been>>> involved in humanitarian missions to <<<New>>> Guinea, Ethiopia, Rwanda, Cambodia, Bali, Sumatra, and <<<New>>> Zealand. They have also seen service <<<during the>>> Iranian Revolution in <<<1979, the>>> Fijian coups in <<<1987>>>, operations in Somalia in <<<1993>>>, INTERFET operations in East Timor in <<<1999–2000, and the>>> wars in Afghanistan and Iraq <<<beginning in 2001. In over fifty>>> years of Australian service, the Hercules have accumulated more than <<<800,000>>> flying hours.
+
+Contents  [h
+
+</Time:NonDateJoiner,:" the">
+</Time:Numeral,Number,NonDateJoiner,:"twenty four c 130s">
+</Time:Numeral,DateJoiner,NonDateJoiner,:"1974 75 after">
+</Time:DateJoiner,:"been">
+</Time:Other,:"new">
+</Time:Other,:"new">
+</Time:Other,NonDateJoiner,:"during the">
+</Time:Numeral,NonDateJoiner,:"1979 the">
+</Time:Numeral,:"1987">
+</Time:Numeral,:"1993">
+</Time:Numeral,NonDateJoiner,:"1999 2000 and the">
+</Time:Numeral,Number,DateJoiner,NonDateJoiner,:"beginning in 2001 in over fifty">
+</Time:Numeral,:"800 000">
+
+
+ide] 
+<<<1>>>	Acquisition
+<<<1.1>>>	Initial selection and purchase
+<<<1.2	Later>>> models and upgrades
+<<<2>>>	Operational service
+<<<2.1>>>	Introduction into service
+<<<2.2>>>	Vietnam War <<<era
+2.3	Post>>>-Vietnam tasks
+<<<2.4>>>	Iraq War and <<<recent>>> operations
+<<<3>>>	References
+Acquisition[edit]
+Initial selection and purchase[edit]
+At the <<<end of>>> World War II, the RAAF's prime transport aircraft <<<was the>>> twin-engined Douglas C-<<<47>>> Dakota. In <<<1946, C-47>>> operations were concentrated under No. <<<86>>> Wing and its <<<three>>> flying squadrons, Nos. <<<36, 37, and 38>>>, based initially at RAAF Station Schofields, <<<New>>> South Wales.[<<<1][2] Despite the>>> robustness and ver
+
+</Time:Numeral,Number,:"1">
+</Time:Numeral,Number,:"1 1">
+</Time:Numeral,Number,DateJoiner,:"1 2 later">
+</Time:Numeral,Number,:"2">
+</Time:Numeral,Number,:"2 1">
+</Time:Numeral,Number,:"2 2">
+</Time:Numeral,Number,Epoch,:"era 2 3 post">
+</Time:Numeral,Number,:"2 4">
+</Time:DateJoiner,:"recent">
+</Time:Numeral,Number,:"3">
+</Time:DateJoiner,NonDateJoiner,:"end of">
+</Time:DateJoiner,NonDateJoiner,:"was the">
+</Time:Numeral,:"47">
+</Time:Numeral,NonDateJoiner,:"1946 c 47">
+</Time:Numeral,:"86">
+</Time:Number,:"three">
+</Time:Numeral,NonDateJoiner,:"36 37 and 38">
+</Time:Other,:"new">
+</Time:Numeral,Number,NonDateJoiner,:"1 2 despite the">
+
+
+satility of the Dakota, by the <<<early 1950s the>>> Air Force <<<was>>> looking for a replacement with greater cargo capacity and longer range, to better facilitate the deployment and supply of Australian forces.[<<<3] In 1954, the>>> RAAF embarked on a major re-equipment drive, following a shift in defence funding that favoured the Air Force. The Air Officer Commanding Home Command, Air Vice Marshal Alister Murdoch, led a mission overseas to examine potential <<<new>>> fighter, bomber, transport and training aircraft.[<<<4]
+
+
+C-130A>>> Hercules of No. <<<36>>> Squadron
+<<<Four>>> British transports were considered: the Blackburn Bev
+
+</Time:Numeral,DateJoiner,NonDateJoiner,:"early 1950s the">
+</Time:DateJoiner,:"was">
+</Time:Numeral,Number,NonDateJoiner,:"3 in 1954 the">
+</Time:Other,:"new">
+</Time:Numeral,Number,NonDateJoiner,:"4 c 130a">
+</Time:Numeral,:"36">
+</Time:Number,:"four">
+
+
+erley, Bristol <<<179B>>>, Bristol <<<195 and>>> Short PD <<<16/1. The>>> mission also assessed the American Fairchild C-<<<119G>>> Flying Boxcar, Fairchild C-<<<123>>> Provider and Lockheed C-<<<130A>>> Hercules. Of these types, the mission assessed that the Beverley, C-<<<123 and C-130>>> could potentially meet the RAAF's requirements. Following further consideration of the options <<<after their>>> return to Australia, in <<<early 1955 the>>> members of the mission unanimously recommended that Hercules be procured, as the other <<<two>>> types did not meet some of the most important elements of the requirement.[<<<5] At this time the>>> Australian Governm
+
+</Time:Numeral,:"179b">
+</Time:Numeral,NonDateJoiner,:"195 and">
+</Time:Numeral,Number,NonDateJoiner,:"16 1 the">
+</Time:Numeral,:"119g">
+</Time:Numeral,:"123">
+</Time:Numeral,:"130a">
+</Time:Numeral,NonDateJoiner,:"123 and c 130">
+</Time:DateJoiner,NonDateJoiner,:"after their">
+</Time:Numeral,DateJoiner,NonDateJoiner,:"early 1955 the">
+</Time:Number,:"two">
+</Time:Numeral,Number,Epoch,DateJoiner,NonDateJoiner,:"5 at this time the">
+
+
+ent <<<was>>> reluctant to <<<fund>>> any <<<new>>> equipment for the RAAF, and a decision to acquire <<<twelve C-130s was>>> not made until <<<mid-1957. A>>> contract for these aircraft <<<was>>> signed in <<<October that year. The>>> Australian C-<<<130As>>> were to be similar to those in service with the United States Air Force (USAF), the main difference being the use of <<<TF56-A-11>>> engines in the place of the usual <<<TF56-A-1 and TF56-A-9s>>>; these engines provided almost the same amount of power, but were modified to meet Australian fuel requirements. The total cost for the aircraft, initial crew training and support equipment <<<was>>> $US <<<36 mi
+
+</Time:DateJoiner,:"was">
+</Time:Currency,:"fund">
+</Time:Other,:"new">
+</Time:Numeral,Number,DateJoiner,NonDateJoiner,:"twelve c 130s was">
+</Time:Numeral,DateJoiner,NonDateJoiner,:"mid 1957 a">
+</Time:DateJoiner,:"was">
+</Time:Year,Month,NonDateJoiner,:"october that year the">
+</Time:Numeral,:"130as">
+</Time:Numeral,NonDateJoiner,:"tf56 a 11">
+</Time:Numeral,Number,NonDateJoiner,:"tf56 a 1 and tf56 a 9s">
+</Time:DateJoiner,:"was">
+
+
+llion>>> (equivalent to about <<<16 million>>> Australian pounds).[<<<6]
+
+The>>> Hercules represented a huge improvement over the C-<<<47 in>>> payload, range, speed and manoeuvrability, as well as offering cabin pressurisation, short-takeoff-and-landing capability, and bulk loading and despatch via its rear cargo door. The Government expressed concern over the price, at <<<one>>> stage proposing the purchase of only <<<three>>> aircraft, but eventually the Air Force won approval for the <<<twelve that>>> it wanted. Described by the official <<<history of the post>>>-war RAAF as <<<second>>> only to the General Dynamics F-<<<111C as the "most sig
+
+</Time:Number,:" million">
+</Time:Numeral,Number,:"16 million">
+</Time:Numeral,Number,NonDateJoiner,:"6 the">
+</Time:Numeral,NonDateJoiner,:"47 in">
+</Time:Number,:"one">
+</Time:Number,:"three">
+</Time:Number,NonDateJoiner,:"twelve that">
+</Time:Epoch,NonDateJoiner,:"history of the post">
+</Time:Number,Hour,:"second">
+
+
+nificant" acquisition by the Air Force, the Hercules gave the Australian military its <<<first>>> strategic airlift capability, which in years to come would provide a "lifeline" for deployments to Malaya, Vietnam, and other parts of Southeast Asia.[<<<7>>>] Australia <<<was the first>>> country other than the United States to operate the Hercules.[<<<8] The>>> RAAF's C-<<<130As>>> were also the <<<last of this>>> variant to be built.[<<<9>>>]
+
+RAAF crews began training on the Hercules in the <<<middle of 1958 at>>> Stewart Air Force Base in Nashville, Tennessee. Much of the training took place on a simulator, augmented by approximately fift
+
+</Time::"">
+</Time:Number,:"first">
+</Time:Numeral,Number,:"7">
+</Time:Number,DateJoiner,NonDateJoiner,:"was the first">
+</Time:Numeral,Number,NonDateJoiner,:"8 the">
+</Time:Numeral,:"130as">
+</Time:DateJoiner,NonDateJoiner,:"last of this">
+</Time:Numeral,Number,:"9">
+</Time:Numeral,Epoch,NonDateJoiner,:"middle of 1958 at">
+
+
+y>>> hours flying <<<time in the>>> aircraft.[<<<7] To>>> cope with the Hercules' complexities, the aircrew category of flight engineer, absent from the RAAF since World War II, <<<was>>> reinstated. A <<<new>>> category, that of loadmaster, <<<was>>> also instituted; airmen performing similar duties on Dakotas <<<had>>> done so on an <<<ad>>> hoc rather than a permanent basis, without a distinct category having <<<been>>> formalised.[<<<10] A>>> specialist crew member <<<was>>> needed to make weight-and-balance calculations and oversee loading and despatch for the Hercules' <<<20>>>-tonne freight capacity (compared to <<<three-and-a>>>-half tonnes in a Dakota) and f
+
+</Time:Number,:"fifty">
+</Time:Epoch,DateJoiner,NonDateJoiner,:"time in the">
+</Time:Numeral,Number,NonDateJoiner,:"7 to">
+</Time:DateJoiner,:"was">
+</Time:Other,:"new">
+</Time:DateJoiner,:"was">
+</Time:DateJoiner,:"had">
+</Time:Epoch,Hour,:"ad">
+</Time:DateJoiner,:"been">
+</Time:Numeral,NonDateJoiner,:"10 a">
+</Time:DateJoiner,:"was">
+</Time:Numeral,:"20">
+</Time:Number,NonDateJoiner,:"three and a">
+
+
+or its various cargo-delivery systems.[<<<7] A>>> large hangar previously used to service seaplanes at RAAF Base Rathmines <<<was>>> disassembled and re-erected at RAAF Base Richmond, <<<New>>> South Wales, where the C-<<<130s>>> would be based.[<<<9]
+
+Later>>> models and upgrades[edit]
+A decision to purchase another <<<twelve C-130s was>>> announced in <<<November 1964. At this time the C-130As>>> were being used to supply the Australian forces engaged in the Vietnam War. This task demonstrated that the RAAF <<<had>>> insufficient long-ranged transport aircraft to simultaneously support overseas deployments and meet the force's domestic re
+
+</Time:Numeral,Number,NonDateJoiner,:"7 a">
+</Time:DateJoiner,:"was">
+</Time:Other,:"new">
+</Time:Numeral,:"130s">
+</Time:Numeral,Number,DateJoiner,:"9 later">
+</Time:Numeral,Number,DateJoiner,NonDateJoiner,:"twelve c 130s was">
+</Time:Numeral,Month,Epoch,DateJoiner,NonDateJoiner,:"november 1964 at this time the c 130as">
+</Time:DateJoiner,:"had">
+
+
+quirements in Australia. As a result, the Government decided to order <<<twelve C-130E>>> Hercules as part of a package of acquisitions for the RAAF and Royal Australian Navy (RAN) that also included <<<ten>>> Lockheed P-<<<3>>> Orion and <<<fourteen>>> Grumman S-<<<2>>> Tracker maritime patrol aircraft, as well as <<<twelve>>> Hawker Siddeley HS <<<748>>> transports. The <<<14.7-million-pound>>> contract for the <<<new C-130s was>>> signed on <<<9 February 1965.[11] In>>> contrast to the concerns raised by the government over the cost of purchasing the C-<<<130As, this>>> expansion of the Hercules force gained ready agreement, due in no small part to the be
+
+</Time:Numeral,Number,NonDateJoiner,:"twelve c 130e">
+</Time:Number,:"ten">
+</Time:Numeral,Number,:"3">
+</Time:Number,:"fourteen">
+</Time:Numeral,Number,:"2">
+</Time:Number,:"twelve">
+</Time:Numeral,:"748">
+</Time:Numeral,Number,Quantity,Currency,:"14 7 million pound">
+</Time:Numeral,Other,DateJoiner,NonDateJoiner,:"new c 130s was">
+</Time:Numeral,Number,Month,NonDateJoiner,:"9 february 1965 11 in">
+</Time:Numeral,NonDateJoiner,:"130as this">
+
+
+nefits for the armed services, particularly the Australian Army, demonstrated by the <<<first twelve>>> aircraft.[<<<12] The>>> long-serving C-<<<130As>>> were replaced by <<<new>>> Hercules in the <<<late 1970s; twelve C-130Hs>>> were ordered in <<<June 1976 for a>>> cost of $<<<A86 million, and>>> deliveries took place between <<<July and October 1978.[11][13>>>]
+
+
+RAAF personnel undertaking preventive maintenance on a C-<<<130J in the Middle>>> East <<<during January 2009
+The>>> RAAF's <<<early>>> model Hercules received several repairs and modifications <<<during their>>> service lives. <<<During the early 1960s all of the C-130As>>> were flown to the United States 
+
+</Time:Number,:"first twelve">
+</Time:Numeral,NonDateJoiner,:"12 the">
+</Time:Numeral,:"130as">
+</Time:Other,:"new">
+</Time:Numeral,Number,DateJoiner,NonDateJoiner,:"late 1970s twelve c 130hs">
+</Time:Numeral,Month,NonDateJoiner,:"june 1976 for a">
+</Time:Numeral,Number,NonDateJoiner,:"a86 million and">
+</Time:Numeral,Month,NonDateJoiner,:"july and october 1978 11 13">
+</Time:Numeral,Epoch,NonDateJoiner,:"130j in the middle">
+</Time:Numeral,Month,Other,NonDateJoiner,:"during january 2009 the">
+</Time:DateJoiner,:"early">
+</Time:Other,NonDateJoiner,:"during their">
+</Time:Numeral,Other,DateJoiner,NonDateJoiner,:"during the early 1960s all of the c 130as">
+
+
+to receive <<<new>>> wing fuel tanks <<<after the>>> original tanks were affected by corrosion caused by tropical fungi and bacteria. <<<Later that decade>>> these aircraft received <<<new>>> panels on the upper surface of their wings <<<after the>>> original ones were found to be faulty.[<<<14] The C-130Es>>> were also fitted with strengthened wing centre boxes in the <<<early 1970s after>>> equivalent USAF aircraft were found to be suffering from greater-than-expected wing stress <<<during>>> operations in Vietnam.[<<<15] During 1964 the C-130As>>> received <<<new>>> doppler navigation systems, and the C-<<<130Es and>>> Hs were fitted with ring laser gyros
+
+</Time:Other,:"new">
+</Time:DateJoiner,NonDateJoiner,:"after the">
+</Time:Epoch,DateJoiner,NonDateJoiner,:"later that decade">
+</Time:Other,:"new">
+</Time:DateJoiner,NonDateJoiner,:"after the">
+</Time:Numeral,NonDateJoiner,:"14 the c 130es">
+</Time:Numeral,DateJoiner,NonDateJoiner,:"early 1970s after">
+</Time:Other,NonDateJoiner,:"during">
+</Time:Numeral,Other,NonDateJoiner,:"15 during 1964 the c 130as">
+</Time:Other,:"new">
+</Time:Numeral,NonDateJoiner,:"130es and">
+
+
+cope inertial navigation systems from <<<1989.[16] In 1994, four of>>> No. <<<36>>> Squadron's C-<<<130Hs>>> were equipped with Electronic Warfare Self Protection packs, including radar and missile warning systems, and counter measures such as chaff and flares.[<<<17] Later in the decade, one of the C-130Hs was>>> fitted with extensive signals intelligence equipment under the classified "Project Peacemate"; this aircraft <<<was>>> crewed by RAAF and Defence Signals Directorate personnel and its existence <<<was>>> never publicly confirmed by the Government. The modified C-<<<130H was>>> reported to still be active in the signals intel
+
+</Time:Numeral,Number,NonDateJoiner,:"1989 16 in 1994 four of">
+</Time:Numeral,:"36">
+</Time:Numeral,:"130hs">
+</Time:Numeral,Number,Epoch,DateJoiner,NonDateJoiner,:"17 later in the decade one of the c 130hs was">
+</Time:DateJoiner,:"was">
+</Time:DateJoiner,:"was">
+</Time:Numeral,DateJoiner,:"130h was">
+
+
+ligence role in <<<2008.[18][19] The C-130Hs>>> were also among the <<<first>>> Australian military aircraft to be modified to allow aircrew to operate them while wearing <<<night>>> vision goggles.[<<<20]
+
+The>>> Australian Government ordered <<<twelve C-130J>>> Super Hercules in <<<December 1995 and>>> deliveries began <<<during 1999.[21] As>>> part of the deal negotiated with Lockheed <<<Martin, seven of the>>> RAAF's C-<<<130Es>>> were transferred to the company in return for a reduced price on the <<<new>>> aircraft.[<<<22] At the time the>>> order for the <<<twelve C-130Js was>>> placed, the Government also took out options for a further <<<twenty-seven>>> Super H
+
+</Time:Numeral,NonDateJoiner,:"2008 18 19 the c 130hs">
+</Time:Number,:"first">
+</Time:Hour,:"night">
+</Time:Numeral,NonDateJoiner,:"20 the">
+</Time:Numeral,Number,NonDateJoiner,:"twelve c 130j">
+</Time:Numeral,Month,NonDateJoiner,:"december 1995 and">
+</Time:Numeral,Other,NonDateJoiner,:"during 1999 21 as">
+</Time:Number,Holiday,NonDateJoiner,:"martin seven of the">
+</Time:Numeral,:"130es">
+</Time:Other,:"new">
+</Time:Numeral,Epoch,DateJoiner,NonDateJoiner,:"22 at the time the">
+</Time:Numeral,Number,DateJoiner,NonDateJoiner,:"twelve c 130js was">
+</Time:Number,:"twenty seven">
+
+
+ercules, but these were not taken up; the options included <<<seven>>> airborne <<<early>>> warning and control and <<<eight>>> aerial refuelling variants, as well as up to <<<eight>>> transports for the Royal <<<New>>> Zealand Air Force.[<<<23][24] The>>> RAAF <<<was the first>>> operator of this C-<<<130>>> variant, which <<<was>>> larger than <<<earlier>>> models and <<<had a>>> crew of only <<<three (two>>> pilots and a loadmaster) eliminating the navigator and flight engineer roles employed in <<<earlier>>> models.[<<<21][25] The>>> aircraft initially suffered from serious mechanical and software problems as well as a shortage of spare parts, and were assessed as "experi
+
+</Time:Number,:"seven">
+</Time:DateJoiner,:"early">
+</Time:Number,:"eight">
+</Time:Number,:"eight">
+</Time:Other,:"new">
+</Time:Numeral,NonDateJoiner,:"23 24 the">
+</Time:Number,DateJoiner,NonDateJoiner,:"was the first">
+</Time:Numeral,:"130">
+</Time:DateJoiner,:"was">
+</Time:DateJoiner,:"earlier">
+</Time:DateJoiner,NonDateJoiner,:"had a">
+</Time:Number,:"three two">
+</Time:DateJoiner,:"earlier">
+</Time:Numeral,NonDateJoiner,:"21 25 the">
+
+
+encing significant operational shortfalls" in a <<<2002>>> Australian National Audit Office report.[<<<26][27] The>>> Defence Science and Technology Organisation undertook considerable research into the C-<<<130J>>> design and developed improvements to the aircraft that addressed problems with excessive vibration.[<<<21] The 2009>>> Defence white paper Defending Australia in the Asia Pacific <<<Century>>>: Force <<<2030>>> called for the acquisition of <<<two more C-130Js to>>> partially replace the H variants.[<<<28][29] This>>> purchase did not go ahead, as the government instead ordered a <<<fifth>>> Boeing C-<<<17>>> Globemaster III.[<<<30]
+
+The C-130
+
+</Time:Numeral,:"2002">
+</Time:Numeral,NonDateJoiner,:"26 27 the">
+</Time:Numeral,:"130j">
+</Time:Numeral,NonDateJoiner,:"21 the 2009">
+</Time:Epoch,:"century">
+</Time:Numeral,:"2030">
+</Time:Numeral,Number,NonDateJoiner,:"two more c 130js to">
+</Time:Numeral,NonDateJoiner,:"28 29 this">
+</Time:Number,:"fifth">
+</Time:Numeral,:"17">
+
+
+Js>>> have <<<been>>> updated since entering service. All of the aircraft were fitted with radar warning receivers by the <<<end of 2012, and>>> it is planned to equip the Hercules with Large Aircraft Infrared Countermeasures systems by <<<2016.[31] As of 2015, the>>> Hercules' communications capabilities were also to be updated by fitting the aircraft with satellite communications equipment and the equipment necessary to allow them to use the Link <<<16>>> data exchange network.[<<<32] At this time the C-130s>>> were also to be fitted with <<<new>>> high-speed airdrop ramps at the rear of their cabin, and <<<will>>> be cleared to drop l
+
+</Time:Numeral,:" 130js">
+</Time:DateJoiner,:"been">
+</Time:Numeral,DateJoiner,NonDateJoiner,:"end of 2012 and">
+</Time:Numeral,NonDateJoiner,:"2016 31 as of 2015 the">
+</Time:Numeral,:"16">
+</Time:Numeral,Epoch,DateJoiner,NonDateJoiner,:"32 at this time the c 130s">
+</Time:Other,:"new">
+</Time:DateJoiner,:"will">
+
+
+arger loads.[<<<32] The C-130J's>>> operating software has also <<<been>>> upgraded over <<<time>>>, leading to improved performance. The RAAF is participating in the development of further software enhancements.[<<<31] During 2016 all of the C-130Js>>> were fitted with advanced satellite communications systems that allowed the aircraft, and embarked troops, to be retasked while in flight. As part of this modification the aircraft were fitted with an additional crew station, and they carry a <<<fourth>>> crew member when necessary to handle complex communications tasks.[<<<33]
+
+In March 2015>>> Australian Aviation reported that,
+
+</Time:Numeral,NonDateJoiner,:"32 the c 130j s">
+</Time:DateJoiner,:"been">
+</Time:Epoch,DateJoiner,:"time">
+</Time:Numeral,Other,NonDateJoiner,:"31 during 2016 all of the c 130js">
+</Time:Number,:"fourth">
+</Time:Numeral,Month,NonDateJoiner,:"33 in march 2015">
+
+
+ as part of the process of developing a <<<new>>> Defence White Paper, the Australian Government <<<was>>> considering purchasing <<<two>>> LC-<<<130J>>> Hercules fitted with landing skis and other equipment needed to allow the aircraft to operate in Antarctica. If acquired, these aircraft would be used to support the Australian Antarctic Division's operations following the closure of the Wilkins Runway near Casey Station.[<<<34>>>]
+
+Operational service[edit]
+Introduction into service[edit]
+The RAAF's <<<twelve C-130As>>> were picked up by their newly trained Australian pilots from the Lockheed factory at Dobbins Air Force Base,
+
+</Time:Other,:"new">
+</Time:DateJoiner,:"was">
+</Time:Number,:"two">
+</Time:Numeral,:"130j">
+</Time:Numeral,:"34">
+</Time:Numeral,Number,NonDateJoiner,:"twelve c 130as">
+
+
+ Georgia, and ferried to Australia in <<<three>>> groups between <<<December 1958 and March 1959.[11][12>>>] No. <<<36>>> Squadron, located at RAAF Base Richmond, became the <<<first>>> unit to operate the <<<new>>> aircraft.[<<<8>>>] Almost immediately they established regular courier services within Australia and to RAAF Base Butterworth in Malaya.[<<<12>>>] These flights primarily involved transporting cargo, as Chief of the Air Staff Frederick Scherger directed in <<<1959 that the>>> RAAF would continue to rely on chartered civil airliners to move military personnel on the grounds that these aircraft were better suited to the task and i
+
+</Time:Number,:"three">
+</Time:Numeral,Month,NonDateJoiner,:"december 1958 and march 1959 11 12">
+</Time:Numeral,:"36">
+</Time:Number,:"first">
+</Time:Other,:"new">
+</Time:Numeral,Number,:"8">
+</Time:Numeral,:"12">
+</Time:Numeral,NonDateJoiner,:"1959 that the">
+
+
+n wartime all the C-<<<130s>>> would be needed to supply troops near the front lines.[<<<35] In February 1960 a>>> Hercules flew the RAAF's <<<first>>> AIM-<<<9>>> Sidewinder missiles from the United States to Butterworth to equip the CAC Sabre fighters based there.[<<<36>>>] Crew training <<<was>>> rigorous, and from <<<mid-1960>>> involved the use of a simulator. Only seasoned transport pilots flew the Hercules in its <<<early>>> years of service, generally having undertaken a tour of duty with No. <<<38>>> Squadron's Dakotas.[<<<37] The>>> official <<<history of the post>>>-war Air Force described the Hercules as "probably the biggest step-up in aircraft 
+
+</Time:Numeral,:"130s">
+</Time:Numeral,Month,NonDateJoiner,:"35 in february 1960 a">
+</Time:Number,:"first">
+</Time:Numeral,Number,:"9">
+</Time:Numeral,:"36">
+</Time:DateJoiner,:"was">
+</Time:Numeral,DateJoiner,:"mid 1960">
+</Time:DateJoiner,:"early">
+</Time:Numeral,:"38">
+</Time:Numeral,NonDateJoiner,:"37 the">
+</Time:Epoch,NonDateJoiner,:"history of the post">
+
+
+capabilities" the RAAF <<<had>>> ever received, considering it roughly <<<four times as>>> effective as the Dakota, taking into account the improvements in payload, range, and speed.[<<<38>>>] When No. <<<78>>> (Fighter) Wing and its <<<two>>> squadrons of CAC Sabres deployed to Butterworth between <<<October 1958 and February 1959, seven>>> Dakotas were required to ferry the staff and equipment of No. <<<3>>> Squadron from Australia to Malaya, compared to <<<two>>> Hercules for No. <<<77>>> Squadron.[<<<39] The>>> Hercules were the <<<first>>> turboprop aircraft operated by the RAAF.[<<<40>>>] They were serviced by No. <<<486>>> Maintenance Squadron, with deeper mainte
+
+</Time:DateJoiner,:"had">
+</Time:Number,Epoch,NonDateJoiner,:"four times as">
+</Time:Numeral,:"38">
+</Time:Numeral,:"78">
+</Time:Number,:"two">
+</Time:Numeral,Number,Month,NonDateJoiner,:"october 1958 and february 1959 seven">
+</Time:Numeral,Number,:"3">
+</Time:Number,:"two">
+</Time:Numeral,:"77">
+</Time:Numeral,NonDateJoiner,:"39 the">
+</Time:Number,:"first">
+</Time:Numeral,:"40">
+</Time:Numeral,:"486">
+
+
+nance and upgrades carried out by No. <<<2>>> Aircraft Depot (No. <<<2 AD>>>), both units being based at Richmond.[<<<8][41] The>>> availability of spare parts from the US caused problems <<<early on>>>, grounding <<<one C-130A for>>> almost a <<<year.[8]
+
+
+C-130E>>> Hercules of No. <<<37>>> Squadron at Clark Air Base, Philippines, <<<November 1981>>>
+No. <<<36>>> Squadron commenced parachute trials with the Hercules in <<<September 1960.[42] Beginning in May 1962>>>, RAAF forces based at Ubon, Thailand, under SEATO arrangements were supplied by a regular Hercules service.[<<<43] In December that year, the>>> Hercules made their <<<first>>> troop-carrying flights 
+
+</Time:Numeral,Number,:"2">
+</Time:Numeral,Number,Epoch,Hour,:"2 ad">
+</Time:Numeral,Number,NonDateJoiner,:"8 41 the">
+</Time:DateJoiner,NonDateJoiner,:"early on">
+</Time:Numeral,Number,NonDateJoiner,:"one c 130a for">
+</Time:Numeral,Number,Year,NonDateJoiner,:"year 8 c 130e">
+</Time:Numeral,:"37">
+</Time:Numeral,Month,:"november 1981">
+</Time:Numeral,:"36">
+</Time:Numeral,Month,DateJoiner,NonDateJoiner,:"september 1960 42 beginning in may 1962">
+</Time:Numeral,Year,Month,NonDateJoiner,:"43 in december that year the">
+</Time:Number,:"first">
+
+
+into a combat zone, when <<<one of>>> No. <<<36>>> Squadron's C-<<<130s>>> joined a Commonwealth airlift from Singapore to Borneo at the commencement of the Konfrontasi between Indonesia and Malaysia; similar missions would be undertaken for a further <<<five>>> years.[<<<44] In 1964, the first two>>> Dassault Mirage III fighters to be assembled in Australia were flown in pieces from France to the Government Aircraft Factories at Avalon, Victoria, by RAAF Hercules.[<<<45] The>>> same <<<year, following the>>> entry into Australian service of the de Havilland Canada DHC-<<<4>>> Caribou with No. <<<38>>> Squadron, No. <<<486>>> Squadron <<<was>>> disbanded and
+
+</Time:Number,NonDateJoiner,:"one of">
+</Time:Numeral,:"36">
+</Time:Numeral,:"130s">
+</Time:Number,:"five">
+</Time:Numeral,Number,NonDateJoiner,:"44 in 1964 the first two">
+</Time:Numeral,NonDateJoiner,:"45 the">
+</Time:Year,NonDateJoiner,:"year following the">
+</Time:Numeral,Number,:"4">
+</Time:Numeral,:"38">
+</Time:Numeral,:"486">
+</Time:DateJoiner,:"was">
+
+
+ its equipment and staff divided between Nos. <<<36 and 38>>> Squadrons.[<<<46] The>>> RAAF's force of <<<twelve C-130A>>> Hercules <<<was>>> augmented by <<<twelve C-130Es>>> commencing in <<<August 1966>>>. No. <<<37>>> Squadron, disbanded in <<<1948, was>>> re-formed at Richmond to operate the <<<new>>> models. No. <<<486>>> Squadron <<<was>>> also re-formed to provide maintenance for both Hercules squadrons.[<<<46][47>>>] No. <<<36>>> Squadron's tasking <<<was>>> mainly domestic and tactical in nature, while No. <<<37>>> Squadron's <<<was>>> overseas and strategic, owing to the longer range of its C-<<<130Es.[46] In May 1967, three>>> Hercules of No. <<<37>>> Squadron supported Operation Fast Ca
+
+</Time:Numeral,NonDateJoiner,:"36 and 38">
+</Time:Numeral,NonDateJoiner,:"46 the">
+</Time:Numeral,Number,NonDateJoiner,:"twelve c 130a">
+</Time:DateJoiner,:"was">
+</Time:Numeral,Number,NonDateJoiner,:"twelve c 130es">
+</Time:Numeral,Month,:"august 1966">
+</Time:Numeral,:"37">
+</Time:Numeral,DateJoiner,:"1948 was">
+</Time:Other,:"new">
+</Time:Numeral,:"486">
+</Time:DateJoiner,:"was">
+</Time:Numeral,:"46 47">
+</Time:Numeral,:"36">
+</Time:DateJoiner,:"was">
+</Time:Numeral,:"37">
+</Time:DateJoiner,:"was">
+</Time:Numeral,Number,Month,NonDateJoiner,:"130es 46 in may 1967 three">
+</Time:Numeral,:"37">
+
+
+ravan, the deployment of <<<23>>> Mirages of No. <<<75>>> Squadron to Butterworth.[<<<48][49>>>]
+
+Vietnam War <<<era>>>[edit]
+<<<During the late 1960s, forty-two per cent of>>> Hercules flying hours were devoted to Australian Army operations.[<<<50] The C-130s>>> undertook long-range missions to support Australian forces fighting in the Vietnam War from <<<1965 until 1972. Following the>>> deployment of the <<<1st>>> Battalion, Royal Australian Regiment to South Vietnam in <<<early 1965, the>>> RAAF began fortnightly C-<<<130>>> flights into the country from <<<June that year>>>. These flights were initially conducted by C-<<<130As, and>>> carried high-priority ca
+
+</Time:Numeral,:"23">
+</Time:Numeral,:"75">
+</Time:Numeral,:"48 49">
+</Time:Epoch,:"era">
+</Time:Numeral,Number,Other,DateJoiner,NonDateJoiner,Currency,:"during the late 1960s forty two per cent of">
+</Time:Numeral,NonDateJoiner,:"50 the c 130s">
+</Time:Numeral,NonDateJoiner,:"1965 until 1972 following the">
+</Time:Numeral,Number,:"1st">
+</Time:Numeral,DateJoiner,NonDateJoiner,:"early 1965 the">
+</Time:Numeral,:"130">
+</Time:Year,Month,NonDateJoiner,:"june that year">
+</Time:Numeral,NonDateJoiner,:"130as and">
+
+
+rgo and passengers from Richmond to Vung Tau in South Vietnam via either Butterworth or Singapore.[<<<51] The>>> scale of the supply flights into South Vietnam expanded in <<<1967>>> when No. <<<2>>> Squadron RAAF, which <<<was>>> equipped with English Electric Canberra bombers, <<<was>>> deployed to Phan Rang. A large airlift codenamed <<<Winter>>> Grip <<<was>>> also conducted in <<<mid-1967 to>>> replace <<<two>>> Australian Army battalions, which <<<had>>> completed their <<<year>>>-long tour of duty, with a pair of fresh battalions.[<<<52] The>>> Hercules were called upon to support the withdrawal of the <<<1st>>> Australian Task Force (<<<1>>> ATF) from South Vietnam, a
+
+</Time:Numeral,NonDateJoiner,:"51 the">
+</Time:Numeral,:"1967">
+</Time:Numeral,Number,:"2">
+</Time:DateJoiner,:"was">
+</Time:DateJoiner,:"was">
+</Time:Season,:"winter">
+</Time:DateJoiner,:"was">
+</Time:Numeral,DateJoiner,NonDateJoiner,:"mid 1967 to">
+</Time:Number,:"two">
+</Time:DateJoiner,:"had">
+</Time:Year,:"year">
+</Time:Numeral,NonDateJoiner,:"52 the">
+</Time:Numeral,Number,:"1st">
+</Time:Numeral,Number,:"1">
+
+
+nd Nos. <<<36 and 37>>> Squadrons undertook many sorties to fly equipment and personnel out of the country <<<during 1971. In late 1972, C-130s>>> were used to withdraw the <<<last>>> remaining Australian force in South Vietnam, the Australian Army Training Team Vietnam; the final elements of this force departed aboard <<<two>>> Hercules on <<<20 December 1972.[53]
+
+
+An>>> RAAF nurse tending injured personnel aboard a C-<<<130 during an>>> aeromedical evacuation flight out of South Vietnam
+As well as transport operations, the Hercules flew many evacuation flights out of Vietnam to transfer wounded or sick personnel to Australia,
+
+</Time:Numeral,NonDateJoiner,:"36 and 37">
+</Time:Numeral,Other,DateJoiner,NonDateJoiner,:"during 1971 in late 1972 c 130s">
+</Time:DateJoiner,:"last">
+</Time:Number,:"two">
+</Time:Numeral,Month,NonDateJoiner,:"20 december 1972 53 an">
+</Time:Numeral,Other,NonDateJoiner,:"130 during an">
+
+
+ via Butterworth, for further treatment. These flights were initially conducted as part of the regular courier service, and the patients and RAAF nurses <<<had to>>> endure uncomfortable conditions as the aircraft <<<had>>> only rudimentary facilities for personnel on stretchers.[<<<54>>>] Separate evacuation flights began on <<<1 July 1966, and>>> continued at fortnightly intervals until <<<1972; more>>> flights were made <<<during periods in>>> which <<<1>>> ATF suffered heavy casualties. Although the operation <<<was>>> generally successful, only C-<<<130Es>>> were assigned to this task from <<<May 1967 after an>>> article criticising the use of noi
+
+</Time:DateJoiner,NonDateJoiner,:"had to">
+</Time:DateJoiner,:"had">
+</Time:Numeral,:"54">
+</Time:Numeral,Number,Month,NonDateJoiner,:"1 july 1966 and">
+</Time:Numeral,NonDateJoiner,:"1972 more">
+</Time:Epoch,Other,NonDateJoiner,:"during periods in">
+</Time:Numeral,Number,:"1">
+</Time:DateJoiner,:"was">
+</Time:Numeral,:"130es">
+</Time:Numeral,Month,DateJoiner,NonDateJoiner,:"may 1967 after an">
+
+
+sy C-<<<130As to>>> transport wounded personnel <<<was>>> published in The Medical Journal of Australia. The C-<<<130Es>>> provided much more comfortable conditions and were capable of flying directly between South Vietnam and Australia when required. A total of <<<3,164>>> patients <<<had been>>> transported to Australia by the <<<time the C-130>>> evacuation flights ended in <<<early 1972.[55] The>>> Hercules also returned the bodies of servicemen killed in Vietnam to Australia.[<<<56]
+
+Many of the>>> RAAF's C-<<<130s>>> were redeployed to South Vietnam shortly <<<before the end of the>>> war in <<<1975. The>>> rapid North Vietnamese advance <<<during the Spr
+
+</Time:Numeral,NonDateJoiner,:"130as to">
+</Time:DateJoiner,:"was">
+</Time:Numeral,:"130es">
+</Time:Numeral,Number,:"3 164">
+</Time:DateJoiner,:"had been">
+</Time:Numeral,Epoch,DateJoiner,NonDateJoiner,:"time the c 130">
+</Time:Numeral,DateJoiner,NonDateJoiner,:"early 1972 55 the">
+</Time:Numeral,NonDateJoiner,:"56 many of the">
+</Time:Numeral,:"130s">
+</Time:DateJoiner,NonDateJoiner,:"before the end of the">
+</Time:Numeral,NonDateJoiner,:"1975 the">
+
+
+ing>>> Offensive displaced hundreds of thousands of South Vietnamese civilians, and the Australian Government deployed a detachment of Hercules to Saigon in <<<March 1975 as>>> part of an international aid effort coordinated by the United States. This force, which <<<was>>> designated Detachment S, <<<had an>>> average strength of <<<seven C-130s and about one hundred>>> air and ground crew, and <<<was>>> initially used to transport civilian refugees away from the front lines. <<<After>>> South Vietnamese soldiers were reported to have <<<been>>> transported alongside civilians, Prime Minister Gough Whitlam directed that the Hercules wer
+
+</Time:Season,:" spring">
+</Time:Numeral,Month,NonDateJoiner,:"march 1975 as">
+</Time:DateJoiner,:"was">
+</Time:DateJoiner,NonDateJoiner,:"had an">
+</Time:Numeral,Number,NonDateJoiner,:"seven c 130s and about one hundred">
+</Time:DateJoiner,:"was">
+</Time:DateJoiner,NonDateJoiner,:"after">
+</Time:DateJoiner,:"been">
+
+
+e to only carry humanitarian cargo.[<<<57] As the>>> North Vietnamese advanced on Saigon, Detachment S <<<was>>> moved to Bangkok in Thailand, but continued to fly into South Vietnam each <<<day>>>. Overall, Detachment S <<<had>>> carried <<<1,100>>> refugees and <<<900>>> tonnes of supplies by the <<<end of the>>> war. On <<<4 and 17 April>>>, aircraft of the detachment flew <<<271>>> orphaned children to Bangkok as part of the US-led Operation Babylift.[<<<58] In late April, two of>>> No. <<<37>>> Squadron's C-<<<130Es>>> were assigned to the United Nations to transport supplies throughout Southeast Asia; this force <<<was>>> designated Detachment N. The C-<<<130Es began
+
+</Time:Numeral,NonDateJoiner,:"57 as the">
+</Time:DateJoiner,:"was">
+</Time:Day,Hour,:"day">
+</Time:DateJoiner,:"had">
+</Time:Numeral,Number,:"1 100">
+</Time:Numeral,:"900">
+</Time:DateJoiner,NonDateJoiner,:"end of the">
+</Time:Numeral,Number,Month,NonDateJoiner,:"4 and 17 april">
+</Time:Numeral,:"271">
+</Time:Numeral,Number,Month,DateJoiner,NonDateJoiner,:"58 in late april two of">
+</Time:Numeral,:"37">
+</Time:Numeral,:"130es">
+</Time:DateJoiner,:"was">
+
+
+ operations on <<<3 May, and>>> were mainly used to fly supplies into Laos. The aircraft transported cargo between Thailand, Butterworth, Hong Kong and Singapore; by the <<<time this>>> mission ended in <<<early June, the two>>> Hercules <<<had>>> conducted <<<91>>> sorties for the UN.[<<<59>>>] Aircraft of Detachment S evacuated Australian embassy personnel from Phnom Penh in Cambodia, as well as Saigon, shortly <<<before>>> they fell to Khmer Rouge and North Vietnamese forces in <<<April 1975, after>>> which the force returned to Australia. Detachment N also evacuated the Australian embassy in Vientiane, Laos, <<<during early June 1975.[47][
+
+</Time::"">
+</Time:Numeral,Number,Month,NonDateJoiner,:"3 may and">
+</Time:Epoch,DateJoiner,NonDateJoiner,:"time this">
+</Time:Number,Month,DateJoiner,NonDateJoiner,:"early june the two">
+</Time:DateJoiner,:"had">
+</Time:Numeral,:"91">
+</Time:Numeral,:"59">
+</Time:DateJoiner,NonDateJoiner,:"before">
+</Time:Numeral,Month,DateJoiner,NonDateJoiner,:"april 1975 after">
+
+
+60]
+
+Post>>>-Vietnam tasks[edit]
+In the years <<<after the end of the>>> Vietnam War, the Hercules continued to take part in military exercises and support overseas peacekeeping commitments. They also became well known in the Southern Pacific <<<after>>> being called on for relief following natural disasters, including tsunami in <<<New>>> Guinea, cyclones in the Solomon Islands and Tonga, and fires and floods in Australia.[<<<61] The>>> Hercules played a significant part in the evacuation of civilians following Cyclone Tracy in <<<1974–75; a>>> No. <<<37>>> Squadron C-<<<130E was the first>>> aircraft to touch down in Darwin following t
+
+</Time:Numeral,Epoch,:" 60 post">
+</Time:DateJoiner,NonDateJoiner,:"after the end of the">
+</Time:DateJoiner,NonDateJoiner,:"after">
+</Time:Other,:"new">
+</Time:Numeral,NonDateJoiner,:"61 the">
+</Time:Numeral,NonDateJoiner,:"1974 75 a">
+</Time:Numeral,:"37">
+</Time:Numeral,Number,DateJoiner,NonDateJoiner,:"130e was the first">
+
+
+he disaster.[<<<47] Eight of>>> No. <<<36>>> Squadron's aircraft were involved in the relief effort, flying over <<<550>>> hours, and carrying <<<2,864>>> passengers and almost <<<800,000>>> lbs of cargo, while No. <<<37>>> Squadron contributed <<<11>>> aircraft, flying <<<700>>> hours, and carrying <<<4,400>>> passengers and <<<1,300,000>>> lbs of cargo.[<<<62] On 19 January 1978 a C-130E>>> returning to Australia from Butterworth <<<was>>> used to intercept a drug-smuggling aircraft near Darwin; the smuggler eventually landed at Katherine, and <<<was>>> arrested.[<<<63] After>>> clocking up <<<147,000>>> accident-free flying hours over the course of <<<20>>> years, No. <<<36>>> Squadron's C-
+
+</Time:Numeral,Number,NonDateJoiner,:"47 eight of">
+</Time:Numeral,:"36">
+</Time:Numeral,:"550">
+</Time:Numeral,Number,:"2 864">
+</Time:Numeral,:"800 000">
+</Time:Numeral,:"37">
+</Time:Numeral,:"11">
+</Time:Numeral,:"700">
+</Time:Numeral,Number,:"4 400">
+</Time:Numeral,Number,:"1 300 000">
+</Time:Numeral,Month,NonDateJoiner,:"62 on 19 january 1978 a c 130e">
+</Time:DateJoiner,:"was">
+</Time:DateJoiner,:"was">
+</Time:Numeral,DateJoiner,NonDateJoiner,:"63 after">
+</Time:Numeral,:"147 000">
+</Time:Numeral,:"20">
+</Time:Numeral,:"36">
+
+
+<<<130As>>> were replaced in <<<1978 by C-130H>>> models.[<<<8][25] The C-130Hs>>> were primarily used as tactical air lifters throughout their service with the RAAF, and worked closely with the Army's special forces units.[<<<20>>>]
+
+
+Soldiers from the <<<1st>>> Commando Company parachuting with inflatable boats from an RAAF C-<<<130H into>>> Shoalwater Bay, <<<May 2001
+The>>> disposal of the C-<<<130As>>> took almost a <<<decade, with the>>> process being subject to a police investigation. Attempts to sell the Hercules by tender <<<during 1978 and 1979>>> were unsuccessful, and the American law firm Ford and Vlahos <<<was>>> appointed the sales agent for t
+
+</Time:Numeral,:"130as">
+</Time:Numeral,NonDateJoiner,:"1978 by c 130h">
+</Time:Numeral,Number,NonDateJoiner,:"8 25 the c 130hs">
+</Time:Numeral,:"20">
+</Time:Numeral,Number,:"1st">
+</Time:Numeral,NonDateJoiner,:"130h into">
+</Time:Numeral,Month,NonDateJoiner,:"may 2001 the">
+</Time:Numeral,:"130as">
+</Time:Epoch,NonDateJoiner,:"decade with the">
+</Time:Numeral,Other,NonDateJoiner,:"during 1978 and 1979">
+</Time:DateJoiner,:"was">
+
+
+he aircraft in <<<1981. One was>>> sold to the French Government in <<<1983 and>>> subsequently transferred to the Chadian Air Force. Another <<<two>>> Hercules were sold to the Colombian charter company Aviaco in <<<1983, but the>>> US State Department vetoed the deal shortly <<<before>>> it <<<was to>>> have <<<been>>> completed over suspicions that the aircraft would be used to smuggle drugs into the United States. A C-<<<130A was>>> transferred to the newly established company International Air Aid and leased to the International Red Cross to fly humanitarian supplies into Ethiopia <<<during 1986, but this>>> contract <<<was>>> cancelled <<<after the 
+
+</Time:Numeral,Number,DateJoiner,:"1981 one was">
+</Time:Numeral,NonDateJoiner,:"1983 and">
+</Time:Number,:"two">
+</Time:Numeral,NonDateJoiner,:"1983 but the">
+</Time:DateJoiner,NonDateJoiner,:"before">
+</Time:DateJoiner,NonDateJoiner,:"was to">
+</Time:DateJoiner,:"been">
+</Time:Numeral,DateJoiner,:"130a was">
+</Time:Numeral,Other,NonDateJoiner,:"during 1986 but this">
+</Time:DateJoiner,:"was">
+
+
+C-130's>>> pilot <<<was>>> accused by the Ethiopian government of photographing a military area. The Australian Federal Police eventually charged <<<two>>> people with defrauding the Commonwealth and conspiracy in relation to these attempts to dispose of the C-<<<130As>>>. Eventually, <<<four of the C-130As>>> were sold to Aboitiz Air Transport Corporation in <<<May 1988 and another four>>> were acquired by the Fowler Aeronautical Corporation the <<<next year. Two of the>>> remaining <<<three>>> aircraft were retained by the RAAF for training and heritage purposes, and the final C-<<<130A was>>> scrapped.[<<<64]
+
+In November 1978, a C-130H became
+
+</Time:Numeral,NonDateJoiner,:" c 130 s">
+</Time:DateJoiner,:"was">
+</Time:Number,:"two">
+</Time:Numeral,:"130as">
+</Time:Numeral,Number,NonDateJoiner,:"four of the c 130as">
+</Time:Numeral,Number,Month,NonDateJoiner,:"may 1988 and another four">
+</Time:Number,Year,DateJoiner,NonDateJoiner,:"next year two of the">
+</Time:Number,:"three">
+</Time:Numeral,DateJoiner,:"130a was">
+
+
+ the <<<first>>> Australian Hercules to land in Antarctica, at McMurdo Sound.[<<<65] In January–February 1979, two>>> No. <<<37>>> Squadron C-<<<130Es>>> evacuated Australian and other foreign embassy staff from Tehran, shortly <<<before the>>> collapse of royal rule <<<during the>>> Iranian Revolution.[<<<66] During April 1982, a C-130H was>>> fitted with aerial firefighting equipment acquired from the United States Forest Service for trials purposes; several Hercules <<<later>>> used this equipment to fight bushfires.[<<<67] On 5 April 1983, 23 of the>>> RAAF's Hercules performed a formation flight over Sydney; the remaining aircraft <<<was to hav
+
+</Time::"">
+</Time:Number,:"first">
+</Time:Numeral,Number,Month,NonDateJoiner,:"65 in january february 1979 two">
+</Time:Numeral,:"37">
+</Time:Numeral,:"130es">
+</Time:DateJoiner,NonDateJoiner,:"before the">
+</Time:Other,NonDateJoiner,:"during the">
+</Time:Numeral,Month,Other,DateJoiner,NonDateJoiner,:"66 during april 1982 a c 130h was">
+</Time:DateJoiner,:"later">
+</Time:Numeral,Number,Month,NonDateJoiner,:"67 on 5 april 1983 23 of the">
+
+
+e participated in this flight but <<<was>>> diverted to conduct a search-and-rescue task.[<<<68] The>>> Hercules' <<<twelve-hour>>> endurance and ability to drop survival equipment over land or sea made it a useful aircraft for such missions.[<<<47] In 1986>>>, No. <<<37>>> Squadron transported the Popemobiles <<<during>>> John Paul II's tour of Australia; its other unusual cargoes have included a Murray Grey stud bull presented to the Chinese Government in <<<1973>>>, kangaroos and sheep for Malaysia, and archaeological exhibits from China.[<<<47][69]
+
+In February 1987>>>, Nos. <<<36 and 37>>> Squadrons joined No. <<<33>>> Squadron (flying Boeing <<<707 
+
+</Time::"">
+</Time:DateJoiner,:"was">
+</Time:Numeral,NonDateJoiner,:"68 the">
+</Time:Number,Hour,:"twelve hour">
+</Time:Numeral,NonDateJoiner,:"47 in 1986">
+</Time:Numeral,:"37">
+</Time:Other,NonDateJoiner,:"during">
+</Time:Numeral,:"1973">
+</Time:Numeral,Month,NonDateJoiner,:"47 69 in february 1987">
+</Time:Numeral,NonDateJoiner,:"36 and 37">
+</Time:Numeral,:"33">
+
+
+tanker-transports) as part of a re-formed No. <<<86>>> Wing under the newly established Air Lift Group (renamed Air Mobility Group in <<<April 2014).[70][71] In May that year four C-130s>>> flew a rifle company of the <<<1st>>> Battalion, Royal Australian Regiment, from Townsville to Norfolk Island <<<during>>> Operation Morris Dance, the Australian Defence Force's response to the <<<first of the 1987>>> Fijian coups; the soldiers subsequently embarked onto RAN warships by helicopter.[<<<72] In 1988>>>, No. <<<37>>> Squadron's Hercules achieved <<<200,000>>> accident-free flying hours.[<<<47>>>] No. <<<36>>> Squadron achieved <<<100,000>>> accident-free flyi
+
+</Time::"">
+</Time:Numeral,:"86">
+</Time:Numeral,Number,Year,Month,NonDateJoiner,:"april 2014 70 71 in may that year four c 130s">
+</Time:Numeral,Number,:"1st">
+</Time:Other,NonDateJoiner,:"during">
+</Time:Numeral,Number,NonDateJoiner,:"first of the 1987">
+</Time:Numeral,NonDateJoiner,:"72 in 1988">
+</Time:Numeral,:"37">
+</Time:Numeral,:"200 000">
+</Time:Numeral,:"47">
+</Time:Numeral,:"36">
+</Time:Numeral,:"100 000">
+
+
+ng hours on the C-<<<130H in 1990.[65>>>] Members of the travelling public experienced flying by Hercules in <<<1989>>>, when the Australian Government employed the C-<<<130s and 707s for>>> transport <<<during the>>> pilots' dispute that curtailed operations by the <<<two>>> domestic airlines; the resulting spike in operational hours necessitated No. <<<486>>> Squadron sending detachments to several locations throughout the country to cope with increased maintenance demands.[<<<73] By the late 1980s>>>, some C-<<<130>>> maintenance tasks <<<had been>>> outsourced to commercial firms, and Air <<<New>>> Zealand won a <<<four-year>>> depot maintenance contract
+
+</Time:Numeral,NonDateJoiner,:"130h in 1990 65">
+</Time:Numeral,:"1989">
+</Time:Numeral,NonDateJoiner,:"130s and 707s for">
+</Time:Other,NonDateJoiner,:"during the">
+</Time:Number,:"two">
+</Time:Numeral,:"486">
+</Time:Numeral,DateJoiner,NonDateJoiner,:"73 by the late 1980s">
+</Time:Numeral,:"130">
+</Time:DateJoiner,:"had been">
+</Time:Other,:"new">
+</Time:Number,Year,:"four year">
+
+
+ in <<<1990.[74]
+
+Following the>>> Iraqi invasion of Kuwait in <<<August 1990>>>, No. <<<86>>> Wing prepared to deploy <<<five C-130s to the Middle>>> East to evacuate <<<3,000>>> Australian citizens from Saudi Arabia in the event that Iraq also attacked that country. An operation to fly about <<<95>>> Australians and <<<New>>> Zealanders directly out of Iraq and Kuwait <<<was>>> also planned, but would have only <<<been>>> conducted as a <<<last>>> resort due to the great dangers involved. These evacuation flights were not required as Iraq did not invade Saudi Arabia, and the Australians in Iraq departed by road.[<<<75] A>>> proposal to deploy some of the H
+
+</Time:Numeral,NonDateJoiner,:"1990 74 following the">
+</Time:Numeral,Month,:"august 1990">
+</Time:Numeral,:"86">
+</Time:Numeral,Number,Epoch,NonDateJoiner,:"five c 130s to the middle">
+</Time:Numeral,Number,:"3 000">
+</Time:Numeral,:"95">
+</Time:Other,:"new">
+</Time:DateJoiner,:"was">
+</Time:DateJoiner,:"been">
+</Time:DateJoiner,:"last">
+</Time:Numeral,NonDateJoiner,:"75 a">
+
+
+ercules as part of Australia's contribution to the ensuing Gulf War <<<was>>> also rejected in <<<late 1990 as the>>> aircraft <<<had to>>> be held in reserve in case fighting on the Pacific island of Bougainville worsened and required an evacuation operation.[<<<76] After>>> Operation Desert Storm commenced in <<<January 1991, two C-130s>>> were dispatched to the Cocos (Keeling) Islands in the Indian Ocean where they were held at readiness to deploy to Saudi Arabia in case Australian citizens <<<had to>>> be evacuated; these aircraft moved to Singapore on <<<29 January and>>> returned to Australia in <<<early February.[77>>>] Other Hercule
+
+</Time:DateJoiner,:"was">
+</Time:Numeral,DateJoiner,NonDateJoiner,:"late 1990 as the">
+</Time:DateJoiner,NonDateJoiner,:"had to">
+</Time:Numeral,DateJoiner,NonDateJoiner,:"76 after">
+</Time:Numeral,Number,Month,NonDateJoiner,:"january 1991 two c 130s">
+</Time:DateJoiner,NonDateJoiner,:"had to">
+</Time:Numeral,Month,NonDateJoiner,:"29 january and">
+</Time:Numeral,Month,DateJoiner,:"early february 77">
+
+
+s flew supplies for the RAN warships in the region from Australia to Muscat, Oman, from <<<January 1991, and>>> also transported a naval Clearance Diving Team to Muscat <<<late in the month.[78] In 1992, the>>> Hercules of Nos. <<<36 and 37>>> Squadrons achieved a grand total of <<<500,000>>> accident-free flying hours; Lockheed presented No. <<<86>>> Wing with a trophy to commemorate the milestone.[<<<79>>>]
+
+
+RAAF C-<<<130J>>> Hercules, Canberra, <<<2005
+The>>> RAAF's Hercules fleet continued to support Australian military deployments <<<during the 1990s and 2000s. In 1993, C-130s>>> transported Australian troops to and from Somalia as part of 
+
+</Time:Numeral,Month,NonDateJoiner,:"january 1991 and">
+</Time:Numeral,Month,DateJoiner,NonDateJoiner,:"late in the month 78 in 1992 the">
+</Time:Numeral,NonDateJoiner,:"36 and 37">
+</Time:Numeral,:"500 000">
+</Time:Numeral,:"86">
+</Time:Numeral,:"79">
+</Time:Numeral,:"130j">
+</Time:Numeral,NonDateJoiner,:"2005 the">
+</Time:Numeral,Other,NonDateJoiner,:"during the 1990s and 2000s in 1993 c 130s">
+
+
+Operation Solace.[<<<80][81] In late July the next year two C-130Hs>>> flew water purifying equipment and medical supplies into Rwanda to assist the survivors of the genocide in that country.[<<<82] Six>>> Hercules evacuated over <<<450>>> civilians from Cambodia following the coup in <<<July 1997.[83>>>] No. <<<37>>> Squadron re-equipped with <<<new>>>-model C-<<<130J>>> Hercules in <<<1999; during the>>> transition to the <<<new>>> aircraft the C-<<<130Es>>> were operated by No. <<<36>>> Squadron <<<before>>> being retired.[<<<25][84] The seven C-130Es>>> transferred to Lockheed <<<Martin as>>> part of the C-<<<130J>>> purchase agreement were subsequently sold to Pakistan in 2004
+
+</Time:Numeral,Number,Year,Month,DateJoiner,NonDateJoiner,:"80 81 in late july the next year two c 130hs">
+</Time:Numeral,Number,:"82 six">
+</Time:Numeral,:"450">
+</Time:Numeral,Month,:"july 1997 83">
+</Time:Numeral,:"37">
+</Time:Other,:"new">
+</Time:Numeral,:"130j">
+</Time:Numeral,Other,NonDateJoiner,:"1999 during the">
+</Time:Other,:"new">
+</Time:Numeral,:"130es">
+</Time:Numeral,:"36">
+</Time:DateJoiner,NonDateJoiner,:"before">
+</Time:Numeral,Number,NonDateJoiner,:"25 84 the seven c 130es">
+</Time:Holiday,NonDateJoiner,:"martin as">
+</Time:Numeral,:"130j">
+
+
+. Of>>> these aircraft, <<<six>>> entered service with the Pakistan Air Force and the <<<seventh was>>> scrapped.[<<<22][85] The>>> RAAF's other <<<five C-130Es>>> were retained to be used for ground training and museum purposes.[<<<86] At the end of 1999>>>, No. <<<86>>> Wing ceased flying the regularly scheduled intra-Australia C-<<<130>>> flights that <<<had>>> begun in <<<May 1959>>>. While these courier flights <<<had been one of the>>> main tasks assigned to the Hercules force since the type's introduction, the reduction in commercial airfares <<<during the late 1990s>>> rendered them unnecessary.[<<<87]
+
+A>>> detachment of Hercules from Nos. <<<36 and 37 Squadron
+
+</Time:Numeral,NonDateJoiner,:"2004 of">
+</Time:Number,:"six">
+</Time:Number,DateJoiner,:"seventh was">
+</Time:Numeral,NonDateJoiner,:"22 85 the">
+</Time:Numeral,Number,NonDateJoiner,:"five c 130es">
+</Time:Numeral,DateJoiner,NonDateJoiner,:"86 at the end of 1999">
+</Time:Numeral,:"86">
+</Time:Numeral,:"130">
+</Time:DateJoiner,:"had">
+</Time:Numeral,Month,:"may 1959">
+</Time:Number,DateJoiner,NonDateJoiner,:"had been one of the">
+</Time:Numeral,Other,DateJoiner,NonDateJoiner,:"during the late 1990s">
+</Time:Numeral,NonDateJoiner,:"87 a">
+
+
+s supported INTERFET operations in East Timor between <<<September 1999 and February 2000.[88][89>>>] When violence broke out following the East Timor Special Autonomy Referendum on <<<30 August 1999, C-130H>>> sorties were flown into the then-Indonesian province from <<<6 to 14 September to>>> evacuate United Nations personnel as well as other foreign citizens and East Timorese refugees. <<<Four C-130E>>> sorties were also conducted to drop food and other humanitarian supplies to refugees on <<<17 and 18 September.[90] On 19 September a C-130>>> dropped a Special Air Service Regiment (SAS) team near the East Timorese capi
+
+</Time::"">
+</Time:Numeral,Month,NonDateJoiner,:"september 1999 and february 2000 88 89">
+</Time:Numeral,Month,NonDateJoiner,:"30 august 1999 c 130h">
+</Time:Numeral,Number,Month,NonDateJoiner,:"6 to 14 september to">
+</Time:Numeral,Number,NonDateJoiner,:"four c 130e">
+</Time:Numeral,Month,NonDateJoiner,:"17 and 18 september 90 on 19 september a c 130">
+
+
+tal of Dili ahead of the arrival of the main INTERFET force the <<<next day. From 20 September, thirteen>>> RAAF Hercules (designated No. <<<86>>> Wing Detachment B) and transport aircraft from several other countries flew troops and supplies into East Timor. These aircraft also dropped humanitarian supplies to refugees who <<<had>>> fled to mountainous regions. The poor condition of most East Timorese airfields and the potential threat of being fired upon by pro-Indonesian militia were constant dangers throughout this operation.[<<<91]
+
+The>>> support arrangements for the RAAF's Hercules were reformed <<<during 1999 an
+
+</Time:Numeral,Number,Month,Day,Hour,DateJoiner,NonDateJoiner,:"next day from 20 september thirteen">
+</Time:Numeral,:"86">
+</Time:DateJoiner,:"had">
+</Time:Numeral,NonDateJoiner,:"91 the">
+
+
+d 2000. On 24 August 1999, the>>> training sections of Nos. <<<33, 36 and 37>>> Squadrons and No. <<<503>>> Wing were combined to form No. <<<285>>> Squadron. This <<<new>>> squadron <<<was>>> assigned responsibility for training aircrew to operate C-<<<130s and>>> Boeing <<<707s>>> using flight simulators, as well as aircraft temporarily assigned to the unit from the operational squadrons. Retired Hercules have also <<<been>>> used to train loadmasters.[<<<92] In May 2000>>>, heavy maintenance of the C-<<<130s>>>, previously carried out by No. <<<2 AD>>> (reformed as No. <<<503>>> Wing in <<<July 1992) was>>> contracted out to Qantas.[<<<93][94] Since the>>> retirement of the B
+
+</Time:Numeral,Month,NonDateJoiner,:" and 2000 on 24 august 1999 the">
+</Time:Numeral,NonDateJoiner,:"33 36 and 37">
+</Time:Numeral,:"503">
+</Time:Numeral,:"285">
+</Time:Other,:"new">
+</Time:DateJoiner,:"was">
+</Time:Numeral,NonDateJoiner,:"130s and">
+</Time:Numeral,:"707s">
+</Time:DateJoiner,:"been">
+</Time:Numeral,Month,NonDateJoiner,:"92 in may 2000">
+</Time:Numeral,:"130s">
+</Time:Numeral,Number,Epoch,Hour,:"2 ad">
+</Time:Numeral,:"503">
+</Time:Numeral,Month,DateJoiner,:"july 1992 was">
+</Time:Numeral,NonDateJoiner,:"93 94 since the">
+
+
+oeing <<<707 from>>> RAAF service in <<<June 2008>>>, No. <<<285>>> Squadron has <<<been>>> dedicated to C-<<<130>>> training.[<<<92>>>]
+
+Iraq War and <<<recent>>> operations[edit]
+From <<<late 2001>>>, Hercules began flying into Afghanistan to support the SAS squadron deployed as part of Operation Slipper, Australia's contribution to the War in Afghanistan.[<<<95] Five>>> Hercules of Nos. <<<36 and 37>>> Squadrons joined relief efforts following the Bali Bombings in <<<October 2002.[96][97] In February 2003, a>>> detachment of Hercules from No. <<<36>>> Squadron <<<was>>> deployed to the <<<Middle>>> East as part of the Australian contribution to the invasion of Iraq. These 
+
+</Time:Numeral,NonDateJoiner,:"707 from">
+</Time:Numeral,Month,:"june 2008">
+</Time:Numeral,:"285">
+</Time:DateJoiner,:"been">
+</Time:Numeral,:"130">
+</Time:Numeral,:"92">
+</Time:DateJoiner,:"recent">
+</Time:Numeral,DateJoiner,:"late 2001">
+</Time:Numeral,Number,:"95 five">
+</Time:Numeral,NonDateJoiner,:"36 and 37">
+</Time:Numeral,Month,NonDateJoiner,:"october 2002 96 97 in february 2003 a">
+</Time:Numeral,:"36">
+</Time:DateJoiner,:"was">
+</Time:Epoch,:"middle">
+
+
+aircraft arrived on <<<10 February, and>>> began flying transport sorties <<<twelve>>> days <<<later. The C-130s>>> were the main form of transport used to move Australian personnel and equipment in the theatre <<<before and after the>>> outbreak of fighting on <<<19 March.[98] During the>>> invasion the Hercules supported SAS operations in western Iraq, <<<one>>> being the <<<first>>> Coalition aircraft to land at Al Asad Airbase <<<after>>> it <<<was>>> secured by special forces personnel on <<<12 April. The C-130s>>> transported supplies and equipment to airstrips in southern Iraq to support the operations of US and British forces.[<<<99] As the first 
+
+</Time:Numeral,Month,NonDateJoiner,:"10 february and">
+</Time:Number,:"twelve">
+</Time:Numeral,DateJoiner,NonDateJoiner,:"later the c 130s">
+</Time:DateJoiner,NonDateJoiner,:"before and after the">
+</Time:Numeral,Month,Other,NonDateJoiner,:"19 march 98 during the">
+</Time:Number,:"one">
+</Time:Number,:"first">
+</Time:DateJoiner,NonDateJoiner,:"after">
+</Time:DateJoiner,:"was">
+</Time:Numeral,Month,NonDateJoiner,:"12 april the c 130s">
+
+
+phase of the war wound down, Australian Hercules flew medical supplies into Baghdad shortly <<<after the>>> city <<<was>>> captured.[<<<100] A>>> rotating detachment of <<<three>>> Hercules <<<was>>> subsequently maintained in the <<<Middle>>> East to support the ongoing Australian contribution to the War in Afghanistan, as well as the forces stationed in Iraq. The aircraft assigned to this detachment amassed a total of <<<20,000>>> operational flying hours by <<<March 2010.[101][102] An>>> American contractor travelling on an Australian C-<<<130 in>>> Iraq <<<was>>> killed on <<<27 June 2004>>> when the aircraft <<<was>>> struck by gunfire shortly <<<after>>> it took o
+
+</Time::"">
+</Time:DateJoiner,NonDateJoiner,:"after the">
+</Time:DateJoiner,:"was">
+</Time:Numeral,NonDateJoiner,:"100 a">
+</Time:Number,:"three">
+</Time:DateJoiner,:"was">
+</Time:Epoch,:"middle">
+</Time:Numeral,:"20 000">
+</Time:Numeral,Month,NonDateJoiner,:"march 2010 101 102 an">
+</Time:Numeral,NonDateJoiner,:"130 in">
+</Time:DateJoiner,:"was">
+</Time:Numeral,Month,:"27 june 2004">
+</Time:DateJoiner,:"was">
+</Time:DateJoiner,NonDateJoiner,:"after">
+
+
+ff from Baghdad.[<<<103]
+
+
+A>>> RAAF C-<<<130>>> Hercules being unloaded at Tallil Air Base, Iraq, in <<<April 2003>>>
+RAAF C-<<<130s>>> continued to support operations in and around Australia <<<during the early 2000s. During April 2003 a C-130>>> formed part of the force that tracked the North Korean freighter Pong Su <<<before>>> it <<<was>>> boarded by special forces personnel off the coast of <<<New>>> South Wales.[<<<104>>>] No. <<<36>>> Squadron Hercules took part in Operation Sumatra Assist in the wake of the <<<2004 Boxing Day>>> tsunami; the aircraft were initially used to fly supplies into the badly damaged city of Banda Aceh.[<<<105>>>] Hercules flew A
+
+</Time:Numeral,NonDateJoiner,:"103 a">
+</Time:Numeral,:"130">
+</Time:Numeral,Month,:"april 2003">
+</Time:Numeral,:"130s">
+</Time:Numeral,Month,Other,DateJoiner,NonDateJoiner,:"during the early 2000s during april 2003 a c 130">
+</Time:DateJoiner,NonDateJoiner,:"before">
+</Time:DateJoiner,:"was">
+</Time:Other,:"new">
+</Time:Numeral,:"104">
+</Time:Numeral,:"36">
+</Time:Numeral,Day,Hour,Holiday,:"2004 boxing day">
+</Time:Numeral,:"105">
+
+
+ustralian forces into East Timor <<<during May 2006 after the>>> government of that country requested assistance to quell a military mutiny and widespread violence.[<<<106] In July that year one of the C-130s>>> deployed to the <<<Middle>>> East <<<was>>> sent to Cyprus, where it picked up Australians who <<<had been>>> evacuated from Lebanon following Israeli air raids and flew them to Turkey.[<<<107>>>]
+
+RAAF C-<<<130>>> operations were concentrated in No. <<<37>>> Squadron in <<<November 2006>>>, when No. <<<36>>> Squadron transferred its C-<<<130Hs>>> prior to re-equipping with Boeing C-<<<17>>> Globemaster heavy transports and relocating to RAAF Base Amberley
+
+</Time:Numeral,Month,Other,DateJoiner,NonDateJoiner,:"during may 2006 after the">
+</Time:Numeral,Number,Year,Month,NonDateJoiner,:"106 in july that year one of the c 130s">
+</Time:Epoch,:"middle">
+</Time:DateJoiner,:"was">
+</Time:DateJoiner,:"had been">
+</Time:Numeral,:"107">
+</Time:Numeral,:"130">
+</Time:Numeral,:"37">
+</Time:Numeral,Month,:"november 2006">
+</Time:Numeral,:"36">
+</Time:Numeral,:"130hs">
+</Time:Numeral,:"17">
+
+
+, Queensland.[<<<108] The>>> RAAF's contribution to Operation Papua <<<New>>> Guinea Assist following Cyclone Guba in <<<November 2007>>> included <<<two>>> Hercules, <<<three>>> Caribous, and a Globemaster.[<<<109][110] In November 2008, the>>> RAAF commemorated <<<fifty>>> years of Hercules operation.[<<<111] From that year>>> only C-<<<130Js>>> were deployed to the <<<Middle>>> East.[<<<31] Four of the C-130Hs>>> were placed in reserve at Richmond from <<<2009.[112>>>] Together with Globemasters, Hercules transported medical staff and equipment to aid victims of the Christchurch earthquake in <<<February 2011.[113] In May 2012 the>>> government announced as part of t
+
+</Time:Numeral,NonDateJoiner,:"108 the">
+</Time:Other,:"new">
+</Time:Numeral,Month,:"november 2007">
+</Time:Number,:"two">
+</Time:Number,:"three">
+</Time:Numeral,Month,NonDateJoiner,:"109 110 in november 2008 the">
+</Time:Number,:"fifty">
+</Time:Numeral,Year,NonDateJoiner,:"111 from that year">
+</Time:Numeral,:"130js">
+</Time:Epoch,:"middle">
+</Time:Numeral,Number,NonDateJoiner,:"31 four of the c 130hs">
+</Time:Numeral,:"2009 112">
+</Time:Numeral,Month,NonDateJoiner,:"february 2011 113 in may 2012 the">
+
+
+he <<<2012–13>>> Budget that the remaining <<<eight C-130Hs>>> would be withdrawn from service a <<<year earlier than>>> previously scheduled. The aircraft were retired on <<<30 November that year. Two of the C-130Hs>>> were retained by the Air Force for display at RAAF Museum and for ground training purposes at Richmond; <<<four>>> were donated to the Indonesian Air Force, and the RAAF <<<was>>> reported to be considering options for the disposal of the other <<<six.[114][115] By the time the C-130H>>> fleet <<<was>>> retired, the <<<twelve>>> aircraft <<<had>>> flown almost <<<250,000>>> hours.[<<<116] In April 2013 the>>> Australian government offered to sell f
+
+</Time:Numeral,:"2012 13">
+</Time:Numeral,Number,NonDateJoiner,:"eight c 130hs">
+</Time:Year,DateJoiner,NonDateJoiner,:"year earlier than">
+</Time:Numeral,Number,Year,Month,NonDateJoiner,:"30 november that year two of the c 130hs">
+</Time:Number,:"four">
+</Time:DateJoiner,:"was">
+</Time:Numeral,Number,Epoch,DateJoiner,NonDateJoiner,:"six 114 115 by the time the c 130h">
+</Time:DateJoiner,:"was">
+</Time:Number,:"twelve">
+</Time:DateJoiner,:"had">
+</Time:Numeral,:"250 000">
+</Time:Numeral,Month,NonDateJoiner,:"116 in april 2013 the">
+
+
+ive of the C-130Hs as>>> well as spare parts and simulators to Indonesia at below their market value.[<<<117] The>>> Indonesian government accepted this deal, and it <<<was>>> finalised on <<<26 July 2013.[118] The>>> RAAF celebrated <<<800,000>>> Hercules flying hours in <<<September 2014. The C-130Js had by this time>>> accumulated over <<<100,000>>> hours; they are expected to remain in service until <<<2030.[119>>>]
+
+References[edit]
+Citations
+Jump up ^ Parnell; Lynch, Australian Air Force Since <<<1911>>>, p. <<<165>>>
+Jump up ^ Roylance, Air Base Richmond, pp. <<<92–93>>>
+Jump up ^ Stephens, <<<Going>>> Solo, pp. <<<43, 416>>>
+Jump up ^ Stephens, <<<Going>>> Solo, pp
+
+</Time:Numeral,Number,NonDateJoiner,:"five of the c 130hs as">
+</Time:Numeral,NonDateJoiner,:"117 the">
+</Time:DateJoiner,:"was">
+</Time:Numeral,Month,NonDateJoiner,:"26 july 2013 118 the">
+</Time:Numeral,:"800 000">
+</Time:Numeral,Month,Epoch,DateJoiner,NonDateJoiner,:"september 2014 the c 130js had by this time">
+</Time:Numeral,:"100 000">
+</Time:Numeral,:"2030 119">
+</Time:Numeral,:"1911">
+</Time:Numeral,:"165">
+</Time:Numeral,:"92 93">
+</Time:DateJoiner,:"going">
+</Time:Numeral,:"43 416">
+</Time:DateJoiner,:"going">
+
+
+. <<<38–39>>>
+Jump up ^ Wilson, Dakota, Hercules, and Caribou in Australian Service, p. <<<102>>>
+Jump up ^ Wilson, Dakota, Hercules, and Caribou in Australian Service, pp. <<<102–103>>>
+^ Jump up to: a b c Stephens, <<<Going>>> Solo, pp. <<<416–418>>>
+^ Jump up to: a b c d e Roylance, Air Base Richmond, pp. <<<97–98>>>
+^ Jump up to: a b Wilson, Dakota, Hercules, and Caribou in Australian Service, p. <<<103>>>
+Jump up ^ Stephens, <<<Going>>> Solo, pp. <<<165–166>>>
+^ Jump up to: a b c Wilson, Dakota, Hercules, and Caribou in Australian Service, p. <<<105>>>
+^ Jump up to: a b c Stephens, <<<Going>>> Solo, pp. <<<418–420>>>
+Jump up ^ Wilson, Military Aircraft of Aus
+
+</Time:Numeral,:"38 39">
+</Time:Numeral,:"102">
+</Time:Numeral,:"102 103">
+</Time:DateJoiner,:"going">
+</Time:Numeral,:"416 418">
+</Time:Numeral,:"97 98">
+</Time:Numeral,:"103">
+</Time:DateJoiner,:"going">
+</Time:Numeral,:"165 166">
+</Time:Numeral,:"105">
+</Time:DateJoiner,:"going">
+</Time:Numeral,:"418 420">
+
+
+tralia, p. <<<135>>>
+Jump up ^ Wilson, Dakota, Hercules, and Caribou in Australian Service, pp. <<<119–122>>>
+Jump up ^ Wilson, Dakota, Hercules, and Caribou in Australian Service, p. <<<122>>>
+Jump up ^ Wilson, Dakota, Hercules, and Caribou in Australian Service, pp. <<<122–123>>>
+Jump up ^ "Hercs taking care of business". RAAF News. Vol. <<<36>>> no. <<<7. August 1994>>>. p. <<<1>>>.
+Jump up ^ La Franchi, "<<<New>>> ADF airlift studies"
+Jump up ^ La Franchi, Peter (<<<24 February 2004>>>). "Australia to upgrade intelligence gathering pair". Flight International. Retrieved <<<7 July 2013>>>.
+^ Jump up to: a b Pittaway, "Airlift evolution", p. <<<13
+^ Jum
+
+</Time:Numeral,:"135">
+</Time:Numeral,:"119 122">
+</Time:Numeral,:"122">
+</Time:Numeral,:"122 123">
+</Time:Numeral,:"36">
+</Time:Numeral,Number,Month,:"7 august 1994">
+</Time:Numeral,Number,:"1">
+</Time:Other,:"new">
+</Time:Numeral,Month,:"24 february 2004">
+</Time:Numeral,Number,Month,:"7 july 2013">
+
+
+p up to: a b c "Herculean research effort for a key Defence aircraft" (PDF). Defence Science Australia. Vol. <<<2>>> no. <<<4. December 2011>>>. pp. <<<2–3>>>. ISSN <<<1838-0093>>>.
+^ Jump up to: a b Kaminski, "C-<<<130J>>> Super Hercules Part <<<2>>>", p. <<<81>>>
+Jump up ^ La Franchi, Peter (<<<22 September 1999>>>). "Australia looks at C-<<<130J>>> alternatives". Flight International. Retrieved <<<27 May 2013>>>.
+Jump up ^ Pittaway, "C-<<<130J>>> upgrade", p. <<<16>>>
+^ Jump up to: a b c "Lockheed Hercules". RAAF Museum. Retrieved <<<2 April 2013>>>.
+Jump up ^ Australian National Audit Office, Test and Evaluation of Major Defence Equipment Acquisitions, pp. <<<95–97
+Jum
+
+</Time::"">
+</Time:Numeral,Number,:"2">
+</Time:Numeral,Number,Month,:"4 december 2011">
+</Time:Numeral,Number,:"2 3">
+</Time:Numeral,:"1838 0093">
+</Time:Numeral,:"130j">
+</Time:Numeral,Number,:"2">
+</Time:Numeral,:"81">
+</Time:Numeral,Month,:"22 september 1999">
+</Time:Numeral,:"130j">
+</Time:Numeral,Month,:"27 may 2013">
+</Time:Numeral,:"130j">
+</Time:Numeral,:"16">
+</Time:Numeral,Number,Month,:"2 april 2013">
+
+
+p up ^ McLaughlin, "Hitting its straps", p. <<<32>>>
+Jump up ^ "Upgrade for RAAF C-<<<130Js>>> approved, but no sign of extra Js". Australian Aviation. <<<25 February 2010>>>. Retrieved <<<12 April 2013>>>.
+Jump up ^ "What the White Paper Means for the Royal Australian Air Force" (PDF). Press release. The Hon. Joel Fitzgibbon MP Minister for Defence. <<<2 May 2009>>>. Retrieved <<<12 April 2013>>>.
+Jump up ^ "<<<Fifth>>> RAAF C-<<<17>>> flies". Australian Aviation. <<<29 August 2011>>>. Retrieved <<<12 April 2013>>>.
+^ Jump up to: a b c Pittaway, "C-<<<130J>>> upgrade", p. <<<17>>>
+^ Jump up to: a b Caldwell, "Big Lift", p. <<<71>>>
+Jump up ^ Moclair, "Plugged in", pp. 
+
+</Time::"">
+</Time:Numeral,:"32">
+</Time:Numeral,:"130js">
+</Time:Numeral,Month,:"25 february 2010">
+</Time:Numeral,Month,:"12 april 2013">
+</Time:Numeral,Number,Month,:"2 may 2009">
+</Time:Numeral,Month,:"12 april 2013">
+</Time:Number,:"fifth">
+</Time:Numeral,:"17">
+</Time:Numeral,Month,:"29 august 2011">
+</Time:Numeral,Month,:"12 april 2013">
+</Time:Numeral,:"130j">
+</Time:Numeral,:"17">
+</Time:Numeral,:"71">
+
+
+<<<52–54>>>
+Jump up ^ Caldwell, "Big Lift", p. <<<72>>>
+Jump up ^ Wilson, Dakota, Hercules, and Caribou in Australian Service, p. <<<117>>>
+Jump up ^ Wilson, Sidewinders and Firestreaks, p. <<<38>>>
+Jump up ^ Stephens, <<<Going>>> Solo, pp. <<<419–420>>>
+Jump up ^ Stephens, <<<Going>>> Solo, p. <<<417>>>
+Jump up ^ Stephens, <<<Going>>> Solo, pp. <<<259–260>>>
+Jump up ^ "C-<<<130>>> Hercules: <<<Fifty>>> Years in RAAF service". Pathfinder. No. <<<195>>>. Air Power Development Centre. <<<March 2013>>>. Retrieved <<<14 April 2013>>>.
+Jump up ^ Stephens, <<<Going>>> Solo, p. <<<178>>>
+Jump up ^ RAAF Historical Section, Maritime and Transport Units, pp. <<<57–59>>>
+Jump up ^ Stephens, <<<Going>>> Solo, pp. 272
+
+</Time:Numeral,:"52 54">
+</Time:Numeral,:"72">
+</Time:Numeral,:"117">
+</Time:Numeral,:"38">
+</Time:DateJoiner,:"going">
+</Time:Numeral,:"419 420">
+</Time:DateJoiner,:"going">
+</Time:Numeral,:"417">
+</Time:DateJoiner,:"going">
+</Time:Numeral,:"259 260">
+</Time:Numeral,:"130">
+</Time:Number,:"fifty">
+</Time:Numeral,:"195">
+</Time:Numeral,Month,:"march 2013">
+</Time:Numeral,Month,:"14 april 2013">
+</Time:DateJoiner,:"going">
+</Time:Numeral,:"178">
+</Time:Numeral,:"57 59">
+</Time:DateJoiner,:"going">
+
+
+–275>>>
+Jump up ^ "RAAF C-<<<130 at start of>>> Confrontation". Air Power Development Centre. Retrieved <<<6 April 2013>>>.
+Jump up ^ Susans, The RAAF Mirage Story, pp. <<<29–30>>>
+^ Jump up to: a b c Stephens, <<<Going>>> Solo, pp. <<<424–425>>>
+^ Jump up to: a b c d e f Roylance, Air Base Richmond, pp. <<<100–102>>>
+Jump up ^ Susans, The RAAF Mirage Story, pp. <<<64–66>>>
+Jump up ^ Stephens, <<<Going>>> Solo, p. <<<267>>>
+Jump up ^ Stephens, <<<Going>>> Solo, p. <<<320>>>
+Jump up ^ Coulthard-Clark, The RAAF in Vietnam, pp. <<<244–247>>>
+Jump up ^ Coulthard-Clark, The RAAF in Vietnam, pp. <<<247–248>>>
+Jump up ^ Coulthard-Clark, The RAAF in Vietnam, p. <<<248>>>
+Jump up ^ Coult
+
+</Time:Numeral,:"272 275">
+</Time:Numeral,DateJoiner,NonDateJoiner,:"130 at start of">
+</Time:Numeral,Number,Month,:"6 april 2013">
+</Time:Numeral,:"29 30">
+</Time:DateJoiner,:"going">
+</Time:Numeral,:"424 425">
+</Time:Numeral,:"100 102">
+</Time:Numeral,:"64 66">
+</Time:DateJoiner,:"going">
+</Time:Numeral,:"267">
+</Time:DateJoiner,:"going">
+</Time:Numeral,:"320">
+</Time:Numeral,:"244 247">
+</Time:Numeral,:"247 248">
+</Time:Numeral,:"248">
+
+
+hard-Clark, The RAAF in Vietnam, pp. <<<252–255>>>
+Jump up ^ Coulthard-Clark, The RAAF in Vietnam, pp. <<<256–258>>>
+Jump up ^ Wilson, Dakota, Hercules, and Caribou in Australian Service, p. <<<125>>>
+Jump up ^ Bullard, "<<<After the Fall>>>", pp. <<<28–29>>>
+Jump up ^ Bullard, "<<<After the Fall>>>", pp. <<<29–30>>>
+Jump up ^ Bullard, "<<<After the Fall>>>", p. <<<31>>>
+Jump up ^ Bullard, "<<<After the Fall>>>", pp. <<<30–31>>>
+Jump up ^ Stephens, The Royal Australian Air Force, p. <<<311>>>
+Jump up ^ "Looking back: <<<20>>> years <<<ago>>>". RAAF News. Vol. <<<37>>> no. <<<1. Jan–Feb 1995>>>. p. <<<7>>>.
+Jump up ^ Clark; Clarke, <<<First on the>>> Scene, p. <<<46>>>
+Jump up ^ Wilson, Dakota, Hercules, a
+
+</Time:Numeral,:"252 255">
+</Time:Numeral,:"256 258">
+</Time:Numeral,:"125">
+</Time:Season,DateJoiner,NonDateJoiner,:"after the fall">
+</Time:Numeral,:"28 29">
+</Time:Season,DateJoiner,NonDateJoiner,:"after the fall">
+</Time:Numeral,:"29 30">
+</Time:Season,DateJoiner,NonDateJoiner,:"after the fall">
+</Time:Numeral,:"31">
+</Time:Season,DateJoiner,NonDateJoiner,:"after the fall">
+</Time:Numeral,:"30 31">
+</Time:Numeral,:"311">
+</Time:Numeral,:"20">
+</Time:DateJoiner,:"ago">
+</Time:Numeral,:"37">
+</Time:Numeral,Number,Month,:"1 jan feb 1995">
+</Time:Numeral,Number,:"7">
+</Time:Number,NonDateJoiner,:"first on the">
+</Time:Numeral,:"46">
+
+
+nd Caribou in Australian Service, pp. <<<109–113, 150>>>
+^ Jump up to: a b Roylance, Air Base Richmond, p. <<<105>>>
+Jump up ^ "RAAF Evacuation of Australians from Iran, <<<1979>>>" (PDF). Pathfinder. No. <<<64. April 2007>>>. Retrieved <<<15 April 2013>>>.
+Jump up ^ Wilson, Dakota, Hercules, and Caribou in Australian Service, p. <<<129>>>
+Jump up ^ "Maximum effort by Hercules". Air Power Development Centre. Retrieved <<<13 April 2013>>>.
+Jump up ^ Clark; Clarke, <<<First on the>>> Scene, p. <<<35>>>
+Jump up ^ Roylance, Air Base Richmond, pp. <<<107–108, 116–117>>>
+Jump up ^ Hamilton, Eamon (<<<8 May 2014>>>). "Symbolic change is perfect timing". Air Force. 
+
+</Time:Numeral,:"109 113 150">
+</Time:Numeral,:"105">
+</Time:Numeral,:"1979">
+</Time:Numeral,Month,:"64 april 2007">
+</Time:Numeral,Month,:"15 april 2013">
+</Time:Numeral,:"129">
+</Time:Numeral,Month,:"13 april 2013">
+</Time:Number,NonDateJoiner,:"first on the">
+</Time:Numeral,:"35">
+</Time:Numeral,:"107 108 116 117">
+</Time:Numeral,Number,Month,:"8 may 2014">
+
+
+p. <<<7>>>. Retrieved <<<5 May 2014>>>.
+Jump up ^ Breen, Struggling for Self Reliance, pp. <<<38–40>>>
+Jump up ^ Roylance, Air Base Richmond, pp. <<<110–111>>>
+Jump up ^ Wilson, Dakota, Hercules, and Caribou in Australian Service, p. <<<116>>>
+Jump up ^ Horner, Australia and the '<<<New>>> World Order', pp. <<<330–331>>>
+Jump up ^ Horner, Australia and the '<<<New>>> World Order', p. <<<383>>>
+Jump up ^ Horner, Australia and the '<<<New>>> World Order', p. <<<452>>>
+Jump up ^ Horner, Australia and the '<<<New>>> World Order', pp. <<<449, 460>>>
+Jump up ^ "Symbol of success". RAAF News. Vol. <<<34>>> no. <<<6. July 1992>>>. p. <<<18>>>.
+Jump up ^ "Advance party headed for Somalia". Air Po
+
+</Time:Numeral,Number,:"7">
+</Time:Numeral,Number,Month,:"5 may 2014">
+</Time:Numeral,:"38 40">
+</Time:Numeral,:"110 111">
+</Time:Numeral,:"116">
+</Time:Other,:"new">
+</Time:Numeral,:"330 331">
+</Time:Other,:"new">
+</Time:Numeral,:"383">
+</Time:Other,:"new">
+</Time:Numeral,:"452">
+</Time:Other,:"new">
+</Time:Numeral,:"449 460">
+</Time:Numeral,:"34">
+</Time:Numeral,Number,Month,:"6 july 1992">
+</Time:Numeral,:"18">
+
+
+wer Development Centre. Retrieved <<<2 April 2013>>>.
+Jump up ^ "Airlift returned Army battalion from Somalia". Air Power Development Centre. Retrieved <<<2 April 2013>>>.
+Jump up ^ "Emergency relief delivered to Rwanda". Air Power Development Centre. Retrieved <<<3 April 2013>>>.
+Jump up ^ "Cambodian coup prompted airlift". Air Power Development Centre. Retrieved <<<2 April 2013>>>.
+Jump up ^ Hamilton, Eamon (<<<23 May 2013>>>). "Reunion to unite C-<<<130E>>> community". Air Force. p. <<<15>>>. Retrieved <<<20 September 2013>>>.
+Jump up ^ "World Air Forces <<<2004>>>", p. <<<78>>>
+Jump up ^ Horner, Making the Australian Defence Force, p. <<<215>>>
+Jump up ^
+
+</Time:Numeral,Number,Month,:"2 april 2013">
+</Time:Numeral,Number,Month,:"2 april 2013">
+</Time:Numeral,Number,Month,:"3 april 2013">
+</Time:Numeral,Number,Month,:"2 april 2013">
+</Time:Numeral,Month,:"23 may 2013">
+</Time:Numeral,:"130e">
+</Time:Numeral,:"15">
+</Time:Numeral,Month,:"20 september 2013">
+</Time:Numeral,:"2004">
+</Time:Numeral,:"78">
+</Time:Numeral,:"215">
+
+
+ "RAAF begin regular courier flights". Air Power Development Centre. Retrieved <<<13 April 2013>>>.
+Jump up ^ "RAAF units in East Timor". Australian War <<<Memorial>>>. Retrieved <<<30 March 2013>>>.
+Jump up ^ "No <<<38>>> Squadron". RAAF Museum. Retrieved <<<2 April 2013>>>.
+Jump up ^ Wilson, Warden to Tanger, pp. <<<7–10>>>
+Jump up ^ Wilson, Warden to Tanger, pp. <<<13–19>>>
+^ Jump up to: a b "No. <<<285>>> Squadron". Royal Australian Air Force. Retrieved <<<13 September 2016>>>.
+Jump up ^ "Defence: Commercial Support Program". House of Representatives Notice Paper Question No <<<1957>>>. Hansard. <<<11 August 2003>>>. Retrieved <<<18 January 2017>>>.
+Jump up ^ 
+
+</Time:Numeral,Month,:"13 april 2013">
+</Time:Holiday,:"memorial">
+</Time:Numeral,Month,:"30 march 2013">
+</Time:Numeral,:"38">
+</Time:Numeral,Number,Month,:"2 april 2013">
+</Time:Numeral,Number,:"7 10">
+</Time:Numeral,:"13 19">
+</Time:Numeral,:"285">
+</Time:Numeral,Month,:"13 september 2016">
+</Time:Numeral,:"1957">
+</Time:Numeral,Month,:"11 august 2003">
+</Time:Numeral,Month,:"18 january 2017">
+
+
+RAAF Historical Section, Maintenance Units, pp. <<<6–9>>>
+Jump up ^ Londey, "War Without Boundaries"
+Jump up ^ Eaton, Mark (<<<24 October 2002>>>). "'Full-on' efforts earn plaudits". Air Force News. Vol. <<<44>>> no. <<<20>>>. Retrieved <<<2 April 2013>>>.
+Jump up ^ Clark; Clarke, <<<First on the>>> Scene, p. <<<96>>>
+Jump up ^ Department of Defence, The War in Iraq, p. <<<29>>>
+Jump up ^ Department of Defence, The War in Iraq, pp. <<<21, 25, 28>>>
+Jump up ^ Department of Defence, The War in Iraq, p. <<<32>>>
+Jump up ^ McPhedran, Air Force, p. <<<11>>>
+Jump up ^ "Aussie Hercs <<<clock 20,000>>> operational hours" (PDF). Department of Defence. <<<25 March 2010. Retrie
+
+</Time:Numeral,Number,:"6 9">
+</Time:Numeral,Month,:"24 october 2002">
+</Time:Numeral,:"44">
+</Time:Numeral,:"20">
+</Time:Numeral,Number,Month,:"2 april 2013">
+</Time:Number,NonDateJoiner,:"first on the">
+</Time:Numeral,:"96">
+</Time:Numeral,:"29">
+</Time:Numeral,:"21 25 28">
+</Time:Numeral,:"32">
+</Time:Numeral,:"11">
+</Time:Numeral,Hour,:"clock 20 000">
+
+
+ved <<<2 April 2013>>>.
+Jump up ^ "Fatality on board C-<<<130>>> leaving Baghdad". Air Power Development Centre. Retrieved <<<14 April 2013>>>.
+Jump up ^ Cornford, Philip; Malkin, Bonnie (<<<21 April 2003>>>). "Seized: ship they hunted for days". The Sydney <<<Morning>>> Herald. Retrieved <<<13 April 2013>>>.
+Jump up ^ "Relief effort <<<after Boxing Day>>> tsunami". Air Power Development Centre. Retrieved <<<2 April 2013>>>.
+Jump up ^ O'Brien, Always There, pp. <<<223–224>>>
+Jump up ^ O'Brien, Always There, p. <<<221>>>
+Jump up ^ Hamilton, Eamon (<<<30 November 2006). "Dawn of a new era>>>". Air Force. Vol. <<<48>>> no. <<<22>>>. Archived from the original on <<<3 March 20
+
+</Time::"">
+</Time:Numeral,Number,Month,:"2 april 2013">
+</Time:Numeral,:"130">
+</Time:Numeral,Month,:"14 april 2013">
+</Time:Numeral,Month,:"21 april 2003">
+</Time:Hour,:"morning">
+</Time:Numeral,Month,:"13 april 2013">
+</Time:Day,Hour,Holiday,DateJoiner,NonDateJoiner,:"after boxing day">
+</Time:Numeral,Number,Month,:"2 april 2013">
+</Time:Numeral,:"223 224">
+</Time:Numeral,:"221">
+</Time:Numeral,Month,Epoch,Hour,Other,NonDateJoiner,:"30 november 2006 dawn of a new era">
+</Time:Numeral,:"48">
+</Time:Numeral,:"22">
+
+
+16>>>. Retrieved <<<18 January 2017>>>.
+Jump up ^ Hamilton, Eamon (<<<29 November 2007>>>). "PNG Assist takes off" (PDF). Air Force. Vol. <<<49>>> no. <<<22>>>. Department of Defence. p. <<<3>>>. Retrieved <<<30 June 2016>>>.
+Jump up ^ Gardiner, Kris; Stackpool, Andrew (<<<13 December 2007>>>). "PNG mercy mission" (PDF). Air Force News. Vol. <<<49>>> no. <<<23>>>. Department of Defence. p. <<<5>>>. Retrieved <<<30 June 2016>>>.
+Jump up ^ "RAAF Hercules <<<50th>>> Anniversary". Department of Defence. <<<6 November 2009>>>. Retrieved <<<14 April 2013>>>.
+Jump up ^ Waldron, Greg (<<<9 May 2012>>>). "Australia axes C-<<<130H>>> fleet in sweeping defence cuts". Flight Global. Retrieved <<<13 April 
+
+</Time:Numeral,:" 2016">
+</Time:Numeral,Month,:"18 january 2017">
+</Time:Numeral,Month,:"29 november 2007">
+</Time:Numeral,:"49">
+</Time:Numeral,:"22">
+</Time:Numeral,Number,:"3">
+</Time:Numeral,Month,:"30 june 2016">
+</Time:Numeral,Month,:"13 december 2007">
+</Time:Numeral,:"49">
+</Time:Numeral,:"23">
+</Time:Numeral,Number,:"5">
+</Time:Numeral,Month,:"30 june 2016">
+</Time:Numeral,:"50th">
+</Time:Numeral,Number,Month,:"6 november 2009">
+</Time:Numeral,Month,:"14 april 2013">
+</Time:Numeral,Number,Month,:"9 may 2012">
+</Time:Numeral,:"130h">
+
+
+2013>>>.
+Jump up ^ McPhedran, Air Force, pp. <<<237–238>>>
+Jump up ^ "<<<Early>>> retirement for RAAF C-<<<130Hs, but>>> Battlefield Airlifter battles on". Australian Aviation. <<<9 May 2012>>>. Retrieved <<<12 April 2013>>>.
+Jump up ^ "C-<<<130H>>> retired from service". Australian Aviation. <<<30 November 2012>>>. Retrieved <<<12 April 2013>>>.
+Jump up ^ Creedy, Steve (<<<16 November 2012>>>). "RAAF workhorse, the Hercules C-<<<130H>>>, has enjoyed a varied career". The Australian. Retrieved <<<12 April 2013>>>.
+Jump up ^ Jennings, "Australia offers surplus C-<<<130s to>>> Indonesia"
+Jump up ^ Hashim, Firdaus (<<<26 July 2013>>>). "Indonesia to buy <<<five C-130Hs from Aust
+
+</Time:Numeral,:" 2013">
+</Time:Numeral,:"237 238">
+</Time:DateJoiner,:"early">
+</Time:Numeral,NonDateJoiner,:"130hs but">
+</Time:Numeral,Number,Month,:"9 may 2012">
+</Time:Numeral,Month,:"12 april 2013">
+</Time:Numeral,:"130h">
+</Time:Numeral,Month,:"30 november 2012">
+</Time:Numeral,Month,:"12 april 2013">
+</Time:Numeral,Month,:"16 november 2012">
+</Time:Numeral,:"130h">
+</Time:Numeral,Month,:"12 april 2013">
+</Time:Numeral,NonDateJoiner,:"130s to">
+</Time:Numeral,Month,:"26 july 2013">
+
+
+ralia". Flightglobal. Retrieved <<<28 July 2013>>>.
+Jump up ^ "RAAF marks <<<800,000>>> Hercules flying hours". Australian Aviation. <<<15 September 2014>>>. Retrieved <<<15 September 2014>>>.
+Works consulted
+	Wikimedia Commons has media related to C-<<<130>>> Hercules of the Royal Australian Air Force.
+"World Air Forces <<<2004>>>". Flight International. Vol. <<<166>>> no. <<<4960. 16–22 November 2004>>>. pp. <<<41–100>>>.
+Australian National Audit Office (<<<2002>>>). Test and Evaluation of Major Defence Equipment Acquisitions (PDF). Canberra: Australian National Audit Office. ISBN <<<0-642-80612-8>>>.
+Breen, Bob (<<<2008>>>). Struggling for Self Reliance. <<<Four 
+
+</Time::"">
+</Time:Numeral,Month,:"28 july 2013">
+</Time:Numeral,:"800 000">
+</Time:Numeral,Month,:"15 september 2014">
+</Time:Numeral,Month,:"15 september 2014">
+</Time:Numeral,:"130">
+</Time:Numeral,:"2004">
+</Time:Numeral,:"166">
+</Time:Numeral,Month,:"4960 16 22 november 2004">
+</Time:Numeral,:"41 100">
+</Time:Numeral,:"2002">
+</Time:Numeral,Number,:"0 642 80612 8">
+</Time:Numeral,:"2008">
+
+
+case studies of Australian Regional Force Projection in the <<<late 1980s and the 1990s>>>. Canberra Papers on Strategy and Defence No. <<<171>>>. Canberra: ANU E Press. ISBN <<<978-1-921536-09-0>>>.
+Bullard, Steven (<<<2011). "After the Fall>>>". Wartime. No. <<<53>>>. pp. <<<28–31>>>.
+Caldwell, Paul (<<<March 2015>>>). "Big Lift". Australian Aviation. No. <<<324>>>. pp. <<<70–72>>>.
+Clark, Chris; Clarke, David, eds. (<<<2008). First on the>>> Scene: C-<<<130>>> Hercules as Sketched by William Wells. Tuggeranong, Australian Capital Territory: Air Power Development Centre. ISBN <<<978-1-920800-36-9>>>.
+Coulthard-Clark, Chris (<<<1995). The>>> RAAF in Vietnam: Australian
+
+</Time::"">
+</Time:Numeral,DateJoiner,NonDateJoiner,:"late 1980s and the 1990s">
+</Time:Numeral,:"171">
+</Time:Numeral,Number,:"978 1 921536 09 0">
+</Time:Numeral,Season,DateJoiner,NonDateJoiner,:"2011 after the fall">
+</Time:Numeral,:"53">
+</Time:Numeral,:"28 31">
+</Time:Numeral,Month,:"march 2015">
+</Time:Numeral,:"324">
+</Time:Numeral,:"70 72">
+</Time:Numeral,Number,NonDateJoiner,:"2008 first on the">
+</Time:Numeral,:"130">
+</Time:Numeral,Number,:"978 1 920800 36 9">
+</Time:Numeral,NonDateJoiner,:"1995 the">
+
+
+ Air Involvement in the Vietnam War <<<1962–1975. The>>> Official <<<History of>>> Australia's Involvement in Southeast Asian Conflicts <<<1948–1975>>>, Volume <<<4>>>. St. Leonards, <<<New>>> South Wales: Allen & Unwin in Association with the Australian War <<<Memorial>>>. ISBN <<<1-86373-305-1>>>.
+Department of Defence (<<<2003). The>>> War in Iraq: ADF Operations in the <<<Middle>>> East in <<<2003>>> (PDF). Canberra: Department of Defence.
+Horner, David (<<<2001>>>). Making the Australian Defence Force. The Australian Centenary <<<History of>>> Defence. Volume IV. South Melbourne: Oxford University Press. ISBN <<<0-19-554117-0>>>.
+Horner, David (<<<2011>>>). Australia and
+
+</Time:Numeral,NonDateJoiner,:"1962 1975 the">
+</Time:Epoch,NonDateJoiner,:"history of">
+</Time:Numeral,:"1948 1975">
+</Time:Numeral,Number,:"4">
+</Time:Other,:"new">
+</Time:Holiday,:"memorial">
+</Time:Numeral,Number,:"1 86373 305 1">
+</Time:Numeral,NonDateJoiner,:"2003 the">
+</Time:Epoch,:"middle">
+</Time:Numeral,:"2003">
+</Time:Numeral,:"2001">
+</Time:Epoch,NonDateJoiner,:"history of">
+</Time:Numeral,Number,:"0 19 554117 0">
+</Time:Numeral,:"2011">
+
+
+ the '<<<New>>> World Order': From Peacekeeping to Peace Enforcement <<<1988–1991. The>>> Official <<<History of>>> Australian Peacekeeping, Humanitarian and <<<Post>>>-Cold War Operations, Volume II. Port Melbourne, Victoria: Cambridge University Press. ISBN <<<978-0-521-76587-9>>>.
+Jennings, Gareth (<<<10 April 2013>>>). "Australia offers surplus C-<<<130s to>>> Indonesia". Jane's Defence Weekly. Vol. <<<50>>> no. <<<15>>>. p. <<<14>>>.
+Kaminski, Tom (<<<June 2013). "C-130J>>> Super Hercules Part <<<2>>>: Marine Corps, Coast Guard & International Service". Combat Aircraft Monthly. Vol. <<<14>>> no. <<<6>>>. pp. <<<78–87>>>.
+La Franchi, Peter (<<<March 2008). "New>>> ADF airlift studies
+
+</Time:Other,:"new">
+</Time:Numeral,NonDateJoiner,:"1988 1991 the">
+</Time:Epoch,NonDateJoiner,:"history of">
+</Time:Epoch,:"post">
+</Time:Numeral,Number,:"978 0 521 76587 9">
+</Time:Numeral,Month,:"10 april 2013">
+</Time:Numeral,NonDateJoiner,:"130s to">
+</Time:Numeral,:"50">
+</Time:Numeral,:"15">
+</Time:Numeral,:"14">
+</Time:Numeral,Month,NonDateJoiner,:"june 2013 c 130j">
+</Time:Numeral,Number,:"2">
+</Time:Numeral,:"14">
+</Time:Numeral,Number,:"6">
+</Time:Numeral,:"78 87">
+</Time:Numeral,Month,Other,:"march 2008 new">
+
+
+". Asia Pacific Defence Reporter. Vol. <<<34>>> no. <<<2>>>. pp. <<<22–23>>>.
+Londey, Peter (<<<2003>>>). "War Without Boundaries". Wartime. No. <<<22>>>.
+McLaughlin, Andrew (<<<June 2010>>>). "Hitting its straps". Australian Aviation. No. <<<272>>>. pp. <<<32–34>>>.
+McPhedran, Ian (<<<2011>>>). Air Force: Inside the <<<New Era of>>> Australian Air Power. Sydney: HarperCollins. ISBN <<<978-0-7322-9025-2>>>.
+Moclair, Tony (<<<May 2016>>>). "Plugged In: The RAAF's networked Hercules". Australian Aviation. No. <<<337>>>. pp. <<<52–55.
+O>>>'Brien, Graham (<<<2009>>>). Always There: A <<<History of>>> Air Force Combat Support (PDF). Tuggeranong, Australian Capital Territory: Air Power Develop
+
+</Time:Numeral,:"34">
+</Time:Numeral,Number,:"2">
+</Time:Numeral,:"22 23">
+</Time:Numeral,:"2003">
+</Time:Numeral,:"22">
+</Time:Numeral,Month,:"june 2010">
+</Time:Numeral,:"272">
+</Time:Numeral,:"32 34">
+</Time:Numeral,:"2011">
+</Time:Epoch,Other,NonDateJoiner,:"new era of">
+</Time:Numeral,Number,:"978 0 7322 9025 2">
+</Time:Numeral,Month,:"may 2016">
+</Time:Numeral,:"337">
+</Time:Numeral,NonDateJoiner,:"52 55 o">
+</Time:Numeral,:"2009">
+</Time:Epoch,NonDateJoiner,:"history of">
+
+
+ment Centre. ISBN <<<978-1-920800-45-1>>>.
+Parnell, N.M.; Lynch, C.A. (<<<1976>>>). Australian Air Force Since <<<1911>>>. Sydney: A.H. & A.W. Reed. ISBN <<<0-589-07153>>>-X.
+Pittaway, Nigel (<<<March 2013>>>). "Airlift evolution – Sacrificing tactical for strategic airlift capability?". Defence Today. Vol. <<<10>>> no. <<<2>>>. pp. <<<12–14>>>.
+Pittaway, Nigel (<<<March 2013). "C-130J>>> upgrade – Keeping the Hercules current". Defence Today. Vol. <<<10>>> no. <<<2>>>. pp. <<<16–17>>>.
+RAAF Historical Section (<<<1995>>>). Units of the Royal Australian Air Force: A Concise <<<History>>>. Volume <<<4>>>: Maritime and Transport Units. Canberra: Australian Government Publishing Servi
+
+</Time:Numeral,Number,:"978 1 920800 45 1">
+</Time:Numeral,:"1976">
+</Time:Numeral,:"1911">
+</Time:Numeral,Number,:"0 589 07153">
+</Time:Numeral,Month,:"march 2013">
+</Time:Numeral,:"10">
+</Time:Numeral,Number,:"2">
+</Time:Numeral,:"12 14">
+</Time:Numeral,Month,NonDateJoiner,:"march 2013 c 130j">
+</Time:Numeral,:"10">
+</Time:Numeral,Number,:"2">
+</Time:Numeral,:"16 17">
+</Time:Numeral,:"1995">
+</Time:Epoch,:"history">
+</Time:Numeral,Number,:"4">
+
+
+ce. ISBN <<<0-644-42796-5>>>.
+RAAF Historical Section (<<<1995>>>). Units of the Royal Australian Air Force: A Concise <<<History>>>. Volume <<<7>>>: Maintenance Units. Canberra: Australian Government Publishing Service. ISBN <<<0-644-42800-7>>>.
+Roylance, Derek (<<<1991>>>). Air Base Richmond. RAAF Base Richmond: Royal Australian Air Force. ISBN <<<0-646-05212-8>>>.
+Stephens, Alan (<<<1995). Going>>> Solo: The Royal Australian Air Force <<<1946–1971>>>. Canberra: Australian Government Publishing Service. ISBN <<<0-644-42803-1>>>.
+Stephens, Alan (<<<2006) [2001]. The>>> Royal Australian Air Force: A <<<History>>>. London: Oxford University Press. ISBN <<<0-19-555541-
+
+</Time:Numeral,Number,:"0 644 42796 5">
+</Time:Numeral,:"1995">
+</Time:Epoch,:"history">
+</Time:Numeral,Number,:"7">
+</Time:Numeral,Number,:"0 644 42800 7">
+</Time:Numeral,:"1991">
+</Time:Numeral,Number,:"0 646 05212 8">
+</Time:Numeral,DateJoiner,:"1995 going">
+</Time:Numeral,:"1946 1971">
+</Time:Numeral,Number,:"0 644 42803 1">
+</Time:Numeral,NonDateJoiner,:"2006 2001 the">
+</Time:Epoch,:"history">
+
+
+4>>>.
+Susans, M.R. (ed.) (<<<1990). The>>> RAAF Mirage Story. RAAF Base Point Cook, Victoria: RAAF Museum. ISBN <<<0-642-14835>>>-X.
+Wilson, David (<<<2003>>>). Warden to Tanger: RAAF Operations in East Timor (<<<1st>>> ed.). Maryborough, Queensland: Banner Books. ISBN <<<1-875593-26-8>>>.
+Wilson, Stewart (<<<1990>>>). Dakota, Hercules, and Caribou in Australian Service. Weston Creek, Australian Capital Territory: Aerospace Publications. ISBN <<<0-9587978-5-4>>>.
+Wilson, Stewart (<<<1994>>>). Military Aircraft of Australia. Weston Creek, Australian Capital Territory: Aerospace Publications. ISBN <<<1-875671-08-0>>>.
+Wilson, Stewart (<<<July–September 2
+
+</Time:Numeral,Number,:" 4">
+</Time:Numeral,NonDateJoiner,:"1990 the">
+</Time:Numeral,Number,:"0 642 14835">
+</Time:Numeral,:"2003">
+</Time:Numeral,Number,:"1st">
+</Time:Numeral,Number,:"1 875593 26 8">
+</Time:Numeral,:"1990">
+</Time:Numeral,Number,:"0 9587978 5 4">
+</Time:Numeral,:"1994">
+</Time:Numeral,Number,:"1 875671 08 0">
+
+
+016>>>). "Sidewinders and Firestreaks: Missile Testing on RAAF Sabres". Aero Australia (<<<51): 36–39>>>.
+
+</Time:Numeral,:" 2016">
+</Time:Numeral,:"51 36 39">
+
+
