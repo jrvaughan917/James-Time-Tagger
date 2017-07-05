@@ -1,0 +1,204 @@
+Original file: C:\Users\James\Desktop\Great_East_Lake.txt
+This file was annotated by James' TimeTagger.
+
+
+Great East Lake
+From Wikipedia, the free encyclopedia
+Great East Lake
+GreatEastLake.jpg
+Location	Carroll County, <<<New>>> Hampshire; York County, Maine
+Coordinates	<<<43°35?2>>>?N <<<70°58?39>>>?WCoordinates: <<<43°35?2>>>?N <<<70°58?39>>>?W
+Type	oligotrophic
+Primary inflows	Copp Brook; Scribner Brook
+Primary outflows	Salmon Falls River
+Catchment area	<<<15.5>>> square miles (<<<40 km2>>>)
+Basin countries	United States
+Max. length	<<<5.5>>> mi (<<<8.9>>> km)
+Max. width	<<<1.1>>> mi (<<<1.8>>> km)
+Surface area	<<<1,825>>> acres (<<<7.4 km2>>>)
+Average depth	<<<35>>> ft (<<<11 m>>>)
+Average transparency: <<<30>>> ft (<<<9.2 m>>>)
+Max. depth	<<<102>>> ft (<<<31 m)[1>>>]
+Water volume	<<<59,993>>> acre·ft (<<<74,000,
+
+</Time:Other,:"new">
+</Time:Numeral,Number,:"43 35 2">
+</Time:Numeral,:"70 58 39">
+</Time:Numeral,Number,:"43 35 2">
+</Time:Numeral,:"70 58 39">
+</Time:Numeral,Number,:"15 5">
+</Time:Numeral,:"40 km2">
+</Time:Numeral,Number,:"5 5">
+</Time:Numeral,Number,:"8 9">
+</Time:Numeral,Number,:"1 1">
+</Time:Numeral,Number,:"1 8">
+</Time:Numeral,Number,:"1 825">
+</Time:Numeral,Number,:"7 4 km2">
+</Time:Numeral,:"35">
+</Time:Numeral,NonDateJoiner,:"11 m">
+</Time:Numeral,:"30">
+</Time:Numeral,Number,NonDateJoiner,:"9 2 m">
+</Time:Numeral,:"102">
+</Time:Numeral,Number,NonDateJoiner,:"31 m 1">
+</Time:Numeral,:"59 993">
+
+
+000 m3)[2>>>]
+Residence <<<time	3.3>>> years
+Shore <<<length1	18.02>>> mi (<<<29.00>>> km)[<<<3>>>]
+Surface elevation	<<<571>>> ft (<<<174 m>>>)
+Settlements	Wakefield, <<<New>>> Hampshire; Acton, Maine
+References	[<<<2]
+1>>> Shore length is not a well-defined measure.
+Great East Lake is an <<<1,825>>>-acre (<<<7.4 km2)[1>>>] water body located in Carroll County, <<<New>>> Hampshire, and York County, Maine, in the United States. The lake is shared by the towns of Wakefield, <<<New>>> Hampshire, and Acton, Maine, with <<<45% of>>> its surface area in Acton and <<<55% in>>> Wakefield.[<<<3] The>>> lake is the farthest upstream of the <<<five>>> headwater lakes of the Salmon Falls River, a trib
+
+</Time:Numeral,Number,:" 000 m3 2">
+</Time:Numeral,Number,Epoch,DateJoiner,:"time 3 3">
+</Time:Numeral,:"length1 18 02">
+</Time:Numeral,:"29 00">
+</Time:Numeral,Number,:"3">
+</Time:Numeral,:"571">
+</Time:Numeral,NonDateJoiner,:"174 m">
+</Time:Other,:"new">
+</Time:Numeral,Number,:"2 1">
+</Time:Numeral,Number,:"1 825">
+</Time:Numeral,Number,:"7 4 km2 1">
+</Time:Other,:"new">
+</Time:Other,:"new">
+</Time:Numeral,NonDateJoiner,:"45 of">
+</Time:Numeral,NonDateJoiner,:"55 in">
+</Time:Numeral,Number,NonDateJoiner,:"3 the">
+</Time:Number,:"five">
+
+
+utary of the Piscataqua River. Water from Great East Lake flows out its dam and through the <<<800-foot (240 m>>>) Newichawannock Canal into Horn Pond, then into the Salmon Falls River below Horn Pond.
+
+The widest part of the lake is in <<<New>>> Hampshire. The lake narrows to the east in Maine, creating the <<<First, Second and Third>>> basins. Great East Lake is the largest of the Salmon Falls headwater lakes.
+
+Great East Lake supports abundant wildlife, and <<<21>>> fish species including lake trout (togue), rainbow trout, smallmouth bass, largemouth bass, American eel, hornpout, white perch, <<<black>>> crappie and cha
+
+</Time:Numeral,NonDateJoiner,Quantity,:"800 foot 240 m">
+</Time:Other,:"new">
+</Time:Number,Hour,NonDateJoiner,:"first second and third">
+</Time:Numeral,:"21">
+</Time:Holiday,:"black">
+
+
+in pickerel.[<<<1>>>]
+
+Water quality monitoring data has <<<been>>> collected since <<<1974>>>, including <<<29>>> years of secchi disk transparencies, <<<23>>> years of total phosphorus (TP) data, <<<20>>> years of chlorophyll-a (Chl-a) data and <<<7>>> years of dissolved oxygen (DO) profiles. Sampling results from Station <<<1 (1974-2008>>>) show a median TP concentration of <<<6.4>>> parts per billion (ppb), a mean secchi disk transparency of <<<9.2 m (30.2>>> ft), and a mean Chl-a concentration of <<<1.2>>> ppb. The data indicates that Great East Lake is a high quality water by both the Maine Department of Environmental Protection and <<<New>>> Hampshire Depar
+
+</Time:Numeral,Number,:"1">
+</Time:DateJoiner,:"been">
+</Time:Numeral,:"1974">
+</Time:Numeral,:"29">
+</Time:Numeral,:"23">
+</Time:Numeral,:"20">
+</Time:Numeral,Number,:"7">
+</Time:Numeral,Number,:"1 1974 2008">
+</Time:Numeral,Number,:"6 4">
+</Time:Numeral,Number,NonDateJoiner,:"9 2 m 30 2">
+</Time:Numeral,Number,:"1 2">
+</Time:Other,:"new">
+
+
+tment of Environmental Services standards.[<<<3]
+
+The>>> Great East Lake watershed is located in Acton, Maine, and Wakefield, <<<New>>> Hampshire, and covers approximately <<<9,939>>> acres (<<<40.2 km2>>>). Great East Lake is part of the Piscataqua River major drainage basin and the Salmon Falls River subdrainage basin. Great East Lake flows into Horn Pond which in turn starts the Salmon Falls River at its outflow. The Salmon Falls River then flows into the Piscataqua River and into the Great Bay estuary and the Gulf of Maine.
+
+The Great East Lake watershed is currently <<<66>>>% forested, <<<9>>>% developed, and <<<52>>>% buildable 
+
+</Time:Numeral,Number,NonDateJoiner,:"3 the">
+</Time:Other,:"new">
+</Time:Numeral,Number,:"9 939">
+</Time:Numeral,Number,:"40 2 km2">
+</Time:Numeral,:"66">
+</Time:Numeral,Number,:"9">
+</Time:Numeral,:"52">
+
+
+area. The shoreline of Great East Lake is composed of primarily medium density residential houses and camps (<<<77%). The>>> majority of these structures (<<<64>>>%) are within <<<50>>> feet (<<<15 m) of the>>> shoreline.[<<<3]
+
+The>>> Great East Lake Improvement Association (GELIA) <<<was>>> founded in <<<1932 and>>> has <<<been>>> dedicated to the welfare of Great East Lake, its wildlife, and environment. The nonprofit organization sees education as its primary function to help protect the lake.
+
+Great East Lake has several other programs and organizations dedicated to protecting its pristine water quality. A boat inspection program is ru
+
+</Time:Numeral,NonDateJoiner,:"77 the">
+</Time:Numeral,:"64">
+</Time:Numeral,:"50">
+</Time:Numeral,NonDateJoiner,:"15 m of the">
+</Time:Numeral,Number,NonDateJoiner,:"3 the">
+</Time:DateJoiner,:"was">
+</Time:Numeral,NonDateJoiner,:"1932 and">
+</Time:DateJoiner,:"been">
+
+
+n by the NH Lake Host Program where over <<<1,000>>> boats are inspected annually for invasive aquatic plants. There is also a weed watchers program (similar to the Invasive Plants Patrollers Program in Maine).
+
+See also[edit]
+List of lakes in Maine
+List of lakes in <<<New>>> Hampshire
+References[edit]
+^ Jump up to: a b c "Great East Lake, Wakefield" (PDF). NH Dept. of Fish and Game. Retrieved <<<August 15, 2014>>>.
+^ Jump up to: a b Maine Lakes: Morphometry and Geographic Information
+^ Jump up to: a b c d http://www.fbenvironmental.com/images/PDF/SalmonFallsHeadwatersWBMP.pdf
+External links[edit]
+Great East La
+
+</Time:Numeral,Number,:"1 000">
+</Time:Other,:"new">
+</Time:Numeral,Month,:"august 15 2014">
+
+
+ke Improvement Association
+Categories: Lakes of York County, MaineLakes of Carroll County, <<<New>>> HampshireLakes of Maine
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
+
+Search Wikipedia
+Go
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+<<<Recent>>> changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Print/export
+Create a book
+Download as PDF
+Printabl
+
+</Time:Other,:"new">
+</Time:DateJoiner,:"recent">
+
+
+e version
+Languages
+Français
+Edit links
+This page <<<was last>>> edited on <<<22 January 2017, at 16:25>>>.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms <<<may>>> apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersCookie statementMobile viewWikimedia Foundation Powered by MediaWiki
+
+
+</Time:DateJoiner,:"was last">
+</Time:Numeral,Month,NonDateJoiner,:"22 january 2017 at 16 25">
+</Time:Month,:"may">
+
+
